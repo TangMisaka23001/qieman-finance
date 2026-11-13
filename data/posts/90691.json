@@ -1,0 +1,79 @@
+{
+  "id": 90691,
+  "userLevel": 2,
+  "userLabel": "长赢指数投资计划主理人",
+  "userBadgeWear": null,
+  "content": {
+    "title": "",
+    "contents": [
+      {
+        "contentType": 1,
+        "detail": "今天中证红利反弹一个多点，上一个交易日反弹一个多点。\n\n两三天时间，之前我们“先卖后买”几个点的空间就几乎涨没了。\n\n这就是为什么每次我都要提醒各位，先卖后买真的是一个非常非常困难的事情。因为它需要你连续做到极致的正确。这太难了。\n\n先买后卖如果买了后继续跌，只要你买的东西没问题，就没有问题。\n\n而先卖后买如果卖了以后一直涨，就一点点办法也没了。\n\n所以尽量不要先卖后买。\n\n当然，如果技术信号特别明确，小仓位做一点也不是不行。\n\n",
+        "embedProdList": []
+      }
+    ],
+    "images": [],
+    "intro": "今天中证红利反弹一个多点，上一个交易日反弹一个多点。\n\n两三"
+  },
+  "contentVersion": 0,
+  "richContent": null,
+  "title": "",
+  "type": 1,
+  "questionId": null,
+  "question": null,
+  "topicId": null,
+  "topic": "",
+  "postTopic": null,
+  "isSticky": false,
+  "isAwesome": false,
+  "likeNum": 1483,
+  "liked": false,
+  "commentNum": 0,
+  "questionFollowed": false,
+  "collected": false,
+  "collectionCount": 179,
+  "collectedAt": null,
+  "actionAt": null,
+  "commentList": [],
+  "answerList": [],
+  "answerNum": 0,
+  "answerUserNum": 0,
+  "deleted": false,
+  "createdAt": "2026-10-08T11:02:24",
+  "modified": "2026-10-08T11:02:24.05",
+  "sort": "1791428544050778448",
+  "url": null,
+  "mood": null,
+  "audited": 1,
+  "files": [],
+  "permissions": {
+    "viewPermission": 1,
+    "commentPermission": 2,
+    "viewStrategies": [
+      "LONG_WIN",
+      "LONG_WIN_S"
+    ]
+  },
+  "modifyAt": null,
+  "ramblingTagged": false,
+  "ramblingTags": [],
+  "toolKeys": [],
+  "communityTools": [],
+  "groupInfo": {
+    "groupId": 43,
+    "broker": "0008",
+    "groupName": "长赢同路人",
+    "avatarUrl": "https://asset2.qieman.com/images/53b93bb1-6ccb-437e-b6da-ff8760a141db.png",
+    "groupDesc": "专属于长赢投资者和E大的交流空间。慢慢买入便宜的指数基金，慢慢等待开花结果。",
+    "groupRule": "为保证阅读体验，小组暂时仅限组长和管理员可发布内容，各位成员可在内容下的评论交流～请务必遵守社区规范，文明理性发言哦😊",
+    "priority": 1,
+    "setupTime": "2025-10-13T13:57:24",
+    "isPrivate": false,
+    "pinned": false,
+    "canSetPin": false
+  },
+  "canView": true,
+  "canComment": false,
+  "canControlCommentVisibility": false,
+  "audioInfo": null
+}

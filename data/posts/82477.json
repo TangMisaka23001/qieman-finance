@@ -1,0 +1,79 @@
+{
+  "id": 82477,
+  "userLevel": 2,
+  "userLabel": "长赢指数投资计划主理人",
+  "userBadgeWear": null,
+  "content": {
+    "title": "",
+    "contents": [
+      {
+        "contentType": 1,
+        "detail": "周末不少热门行业的热门公司“不约而同”的发布了不错的业绩预报。\n\n周一它们怎么走就比较有看点。这叫做“好消息测试器”。如果高点好消息无效，那么就更有意思。同理，低位股票如果有坏消息但是不再跌，也很有意思。\n\n还有一个估值上的好消息，是全指信息估值已经从上个月底的90多倍（2015年六月以来最高，历史第三高，市场极度疯狂），跌到了现在的60多倍。坏消息是这个估值依然是五年95，十年92分位。\n\n这些数据和信息本来我想好好写一篇东西为大家分析，但是小组里有些人的样子让我的分享欲几乎消失。\n\n不过有一说一，下周有没有机会买点东西？希望有，技术上看机会不小。我会盯紧的。\n\n\n\n\n\n\n",
+        "embedProdList": []
+      }
+    ],
+    "intro": "周末不少热门行业的热门公司“不约而同”的发布了不错的业绩预报",
+    "images": []
+  },
+  "contentVersion": 0,
+  "richContent": null,
+  "title": "",
+  "type": 1,
+  "questionId": null,
+  "question": null,
+  "topicId": null,
+  "topic": "",
+  "postTopic": null,
+  "isSticky": false,
+  "isAwesome": false,
+  "likeNum": 2777,
+  "liked": false,
+  "commentNum": 0,
+  "questionFollowed": false,
+  "collected": false,
+  "collectionCount": 280,
+  "collectedAt": null,
+  "actionAt": null,
+  "commentList": [],
+  "answerList": [],
+  "answerNum": 0,
+  "answerUserNum": 0,
+  "deleted": false,
+  "createdAt": "2026-07-19T18:01:47",
+  "modified": "2026-07-19T18:11:17.827",
+  "sort": "1784455877827437120",
+  "url": null,
+  "mood": null,
+  "audited": 1,
+  "files": [],
+  "permissions": {
+    "viewPermission": 1,
+    "commentPermission": 2,
+    "viewStrategies": [
+      "LONG_WIN",
+      "LONG_WIN_S"
+    ]
+  },
+  "modifyAt": "2026-07-19 18:11:17",
+  "ramblingTagged": false,
+  "ramblingTags": [],
+  "toolKeys": [],
+  "communityTools": [],
+  "groupInfo": {
+    "groupId": 43,
+    "broker": "0008",
+    "groupName": "长赢同路人",
+    "avatarUrl": "https://asset2.qieman.com/images/53b93bb1-6ccb-437e-b6da-ff8760a141db.png",
+    "groupDesc": "专属于长赢投资者和E大的交流空间。慢慢买入便宜的指数基金，慢慢等待开花结果。",
+    "groupRule": "为保证阅读体验，小组暂时仅限组长和管理员可发布内容，各位成员可在内容下的评论交流～请务必遵守社区规范，文明理性发言哦😊",
+    "priority": 1,
+    "setupTime": "2025-10-13T13:57:24",
+    "isPrivate": false,
+    "pinned": false,
+    "canSetPin": false
+  },
+  "canView": true,
+  "canComment": false,
+  "canControlCommentVisibility": false,
+  "audioInfo": null
+}

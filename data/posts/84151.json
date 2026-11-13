@@ -1,0 +1,85 @@
+{
+  "id": 84151,
+  "userLevel": 2,
+  "userLabel": "长赢指数投资计划主理人",
+  "userBadgeWear": null,
+  "content": {
+    "title": "",
+    "contents": [
+      {
+        "contentType": 1,
+        "detail": "请各位担心我交易风格发生大幅变化的朋友放心。\n\n如果一个交易体系，带来的是大多数绝大多数交易品种都盈利，大多数绝大多数按照这个体系交易的人都盈利，那么大幅修改它一定是不明智的。\n\n不断改进完善交易体系，是我从投资以来一直都在做的事情。\n\n对于很多事情，我认同的是“渐进改良”，而非激进的改天换地，也不是僵化守旧。\n\n发现问题，思考问题，解决问题，将解决问题的方式系统化体系化，然后执行。然后继续发现、思考、解决，继续修正系统和体系。就是我的思维逻辑。",
+        "embedProdList": []
+      },
+      {
+        "contentType": 2,
+        "detail": "https://cdn-community.qieman.com/DB7D114C-0527-4EEA-8A78-8F7AC7C0A264.png"
+      }
+    ],
+    "images": [
+      "https://cdn-community.qieman.com/DB7D114C-0527-4EEA-8A78-8F7AC7C0A264.png"
+    ],
+    "intro": "请各位担心我交易风格发生大幅变化的朋友放心。\n\n如果一个交易"
+  },
+  "contentVersion": 0,
+  "richContent": null,
+  "title": "",
+  "type": 1,
+  "questionId": null,
+  "question": null,
+  "topicId": null,
+  "topic": "",
+  "postTopic": null,
+  "isSticky": false,
+  "isAwesome": false,
+  "likeNum": 1925,
+  "liked": false,
+  "commentNum": 0,
+  "questionFollowed": false,
+  "collected": false,
+  "collectionCount": 163,
+  "collectedAt": null,
+  "actionAt": null,
+  "commentList": [],
+  "answerList": [],
+  "answerNum": 0,
+  "answerUserNum": 0,
+  "deleted": false,
+  "createdAt": "2026-07-31T11:43:34",
+  "modified": "2026-07-31T11:43:34.575",
+  "sort": "1785469414575286606",
+  "url": null,
+  "mood": null,
+  "audited": 1,
+  "files": [],
+  "permissions": {
+    "viewPermission": 1,
+    "commentPermission": 2,
+    "viewStrategies": [
+      "LONG_WIN",
+      "LONG_WIN_S"
+    ]
+  },
+  "modifyAt": null,
+  "ramblingTagged": false,
+  "ramblingTags": [],
+  "toolKeys": [],
+  "communityTools": [],
+  "groupInfo": {
+    "groupId": 43,
+    "broker": "0008",
+    "groupName": "长赢同路人",
+    "avatarUrl": "https://asset2.qieman.com/images/53b93bb1-6ccb-437e-b6da-ff8760a141db.png",
+    "groupDesc": "专属于长赢投资者和E大的交流空间。慢慢买入便宜的指数基金，慢慢等待开花结果。",
+    "groupRule": "为保证阅读体验，小组暂时仅限组长和管理员可发布内容，各位成员可在内容下的评论交流～请务必遵守社区规范，文明理性发言哦😊",
+    "priority": 1,
+    "setupTime": "2025-10-13T13:57:24",
+    "isPrivate": false,
+    "pinned": false,
+    "canSetPin": false
+  },
+  "canView": true,
+  "canComment": false,
+  "canControlCommentVisibility": false,
+  "audioInfo": null
+}

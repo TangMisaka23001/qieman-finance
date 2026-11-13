@@ -1,0 +1,25 @@
+# ── 凭据与本地配置 ────────────────────────────────────────────
+.env
+.env.*
+*.pem
+*.key
+credentials.yaml
+*.credentials.yaml
+
+# ── 别名映射表（真实昵称 ↔ 假名的映射，必须排除）──────────────
+extracted/alias_map.json
+extracted/nickname_universe.json
+
+# ── 中间产物与备份 ────────────────────────────────────────────
+extracted/*.bak
+extracted/posts_buggyparser.jsonl
+extracted/failures.json
+extracted/raw/
+extracted/test/
+*.log
+*.out
+
+# ── 依赖与系统文件 ────────────────────────────────────────────
+node_modules/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,152 @@
+{
+  "id": 57235,
+  "userLevel": 2,
+  "userLabel": "长赢指数投资计划主理人",
+  "userBadgeWear": null,
+  "content": {
+    "title": "",
+    "contents": [
+      {
+        "contentType": 1,
+        "detail": "最近互联网上消失了几个人。\n\n回头再看这条微博，含金量还在上升。\n\n\n",
+        "embedProdList": []
+      },
+      {
+        "contentType": 2,
+        "detail": "https://cdn-community.qieman.com/7DA105D6-E790-4526-9620-9BF38AE06358.png"
+      }
+    ],
+    "images": [
+      "https://cdn-community.qieman.com/7DA105D6-E790-4526-9620-9BF38AE06358.png"
+    ],
+    "intro": "最近互联网上消失了几个人。\n\n回头再看这条微博，含金量还在上"
+  },
+  "contentVersion": 0,
+  "richContent": null,
+  "title": "",
+  "type": 1,
+  "questionId": null,
+  "question": null,
+  "topicId": null,
+  "topic": "",
+  "postTopic": null,
+  "isSticky": false,
+  "isAwesome": false,
+  "likeNum": 1313,
+  "liked": false,
+  "commentNum": 368,
+  "questionFollowed": false,
+  "collected": false,
+  "collectionCount": 93,
+  "collectedAt": null,
+  "actionAt": null,
+  "commentList": [
+    {
+      "id": 608773,
+      "postId": 57235,
+      "articleId": null,
+      "broker": "0008",
+      "userLevel": 0,
+      "userBadgeWear": null,
+      "toCommentId": null,
+      "toReplyId": null,
+      "content": "E大早上好，\n知进、知退。\n上进而又知足；知足而又上进。\n飞机飞得多高多远不是最重要的，最重要的是平安着落。\n拿得起，放得下。\n这是我在老大身上学到的。\n===想再引用一篇WB【2025-2-19】===\n我现在的体会，人生应该是一个从简单到复杂，再回归简单的过程。\n从一开始的一无所有，到做越来越多的事情，结识越来越多的人，掌握越来越广的资源，拥有越来越多的东西，\n到慢慢减少。因为所有的人、物、事，带来收益的同时，也带来了无穷无尽的麻烦。\n人生还是要慢慢减负。少一些麻烦。虽然可能获得的也少一些，但还是麻烦越少，人生轻松愉快的概率更大。\n让无效或者低效的人事物消失，多一点开心，少一些烦恼。\n",
+      "images": null,
+      "audited": 1,
+      "createdAt": "2025-12-09T10:42:36",
+      "likeNum": null,
+      "liked": null,
+      "commentNum": null,
+      "children": null,
+      "pinned": false,
+      "authorEngaged": 0,
+      "heatScore": 2370
+    },
+    {
+      "id": 608617,
+      "postId": 57235,
+      "articleId": null,
+      "broker": "0008",
+      "userLevel": 0,
+      "userBadgeWear": {
+        "id": 668947333,
+        "icon": "https://asset2.qieman.com/images/add9d6b6-a1e8-4e7a-af2a-96746b7df651.png"
+      },
+      "toCommentId": 608155,
+      "toReplyId": null,
+      "content": "家训：低调保平安 做人一定一定要低调。每次出门在外 心里默念的最多就是这一条。别人怎么认为你无所谓 但别人要是盯上你就真的在劫难逃。",
+      "images": null,
+      "audited": 1,
+      "createdAt": "2025-12-09T10:39:51",
+      "likeNum": null,
+      "liked": null,
+      "commentNum": null,
+      "children": null,
+      "pinned": false,
+      "authorEngaged": 0,
+      "heatScore": 1990
+    },
+    {
+      "id": 608155,
+      "postId": 57235,
+      "articleId": null,
+      "broker": "0008",
+      "userLevel": 2,
+      "userBadgeWear": null,
+      "toCommentId": null,
+      "toReplyId": null,
+      "content": "很多做自媒体的希望自己影响力越来越大，这样才会得到更多。\n\n恰恰相反。",
+      "images": null,
+      "audited": 1,
+      "createdAt": "2025-12-09T10:31:36",
+      "likeNum": null,
+      "liked": null,
+      "commentNum": null,
+      "children": null,
+      "pinned": false,
+      "authorEngaged": 0,
+      "heatScore": 10030
+    }
+  ],
+  "answerList": [],
+  "answerNum": 0,
+  "answerUserNum": 0,
+  "deleted": false,
+  "createdAt": "2025-12-09T10:26:22",
+  "modified": "2026-01-20T11:43:26.133",
+  "sort": "1768880606133581852",
+  "url": null,
+  "mood": null,
+  "audited": 1,
+  "files": [],
+  "permissions": {
+    "viewPermission": 1,
+    "commentPermission": 1,
+    "viewStrategies": [
+      "LONG_WIN",
+      "LONG_WIN_S"
+    ]
+  },
+  "modifyAt": null,
+  "ramblingTagged": false,
+  "ramblingTags": [],
+  "toolKeys": null,
+  "communityTools": [],
+  "groupInfo": {
+    "groupId": 43,
+    "broker": "0008",
+    "groupName": "长赢同路人",
+    "avatarUrl": "https://asset2.qieman.com/images/53b93bb1-6ccb-437e-b6da-ff8760a141db.png",
+    "groupDesc": "专属于长赢投资者和E大的交流空间。慢慢买入便宜的指数基金，慢慢等待开花结果。",
+    "groupRule": "为保证阅读体验，小组暂时仅限组长和管理员可发布内容，各位成员可在内容下的评论交流～请务必遵守社区规范，文明理性发言哦😊",
+    "priority": 1,
+    "setupTime": "2025-10-13T13:57:24",
+    "isPrivate": false,
+    "pinned": false,
+    "canSetPin": false
+  },
+  "canView": true,
+  "canComment": true,
+  "canControlCommentVisibility": false,
+  "audioInfo": null
+}

@@ -1,0 +1,79 @@
+{
+  "id": 83959,
+  "userLevel": 2,
+  "userLabel": "长赢指数投资计划主理人",
+  "userBadgeWear": null,
+  "content": {
+    "title": "",
+    "contents": [
+      {
+        "contentType": 1,
+        "detail": "今年第一轮集中买红利的阶段，一条评论让我印象深刻。\n\n这条评论大意是说，很怕买入的红利又会导致我被骂。\n\n说实话真的非常感动。\n\n这位朋友知道有可能下跌，但ta考虑的不是自己有可能受到损失，而是心疼我有可能会因此而被骂。\n\n后来真的下跌了。也确实被骂了。\n\n今天，我们持仓的几个红利品种中，第一个盘中历史新高出现了，最黑暗的时候坚定买入的份额最高收益率也有十几个点了。这个时候我又想起了这位朋友的留言。\n\n为了这样的朋友，我会顶住所有压力，坚持做正确的事情。",
+        "embedProdList": []
+      }
+    ],
+    "intro": "今年第一轮集中买红利的阶段，一条评论让我印象深刻。\n\n这条评",
+    "images": []
+  },
+  "contentVersion": 0,
+  "richContent": null,
+  "title": "",
+  "type": 1,
+  "questionId": null,
+  "question": null,
+  "topicId": null,
+  "topic": "",
+  "postTopic": null,
+  "isSticky": false,
+  "isAwesome": false,
+  "likeNum": 4266,
+  "liked": false,
+  "commentNum": 0,
+  "questionFollowed": false,
+  "collected": false,
+  "collectionCount": 202,
+  "collectedAt": null,
+  "actionAt": null,
+  "commentList": [],
+  "answerList": [],
+  "answerNum": 0,
+  "answerUserNum": 0,
+  "deleted": false,
+  "createdAt": "2026-07-30T10:32:23",
+  "modified": "2026-07-30T10:36:14.4",
+  "sort": "1785378974400429098",
+  "url": null,
+  "mood": null,
+  "audited": 1,
+  "files": [],
+  "permissions": {
+    "viewPermission": 1,
+    "commentPermission": 2,
+    "viewStrategies": [
+      "LONG_WIN",
+      "LONG_WIN_S"
+    ]
+  },
+  "modifyAt": "2026-07-30 10:36:14",
+  "ramblingTagged": false,
+  "ramblingTags": [],
+  "toolKeys": [],
+  "communityTools": [],
+  "groupInfo": {
+    "groupId": 43,
+    "broker": "0008",
+    "groupName": "长赢同路人",
+    "avatarUrl": "https://asset2.qieman.com/images/53b93bb1-6ccb-437e-b6da-ff8760a141db.png",
+    "groupDesc": "专属于长赢投资者和E大的交流空间。慢慢买入便宜的指数基金，慢慢等待开花结果。",
+    "groupRule": "为保证阅读体验，小组暂时仅限组长和管理员可发布内容，各位成员可在内容下的评论交流～请务必遵守社区规范，文明理性发言哦😊",
+    "priority": 1,
+    "setupTime": "2025-10-13T13:57:24",
+    "isPrivate": false,
+    "pinned": false,
+    "canSetPin": false
+  },
+  "canView": true,
+  "canComment": false,
+  "canControlCommentVisibility": false,
+  "audioInfo": null
+}

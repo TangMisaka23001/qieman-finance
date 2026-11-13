@@ -1,0 +1,105 @@
+{
+  "id": 91267,
+  "userLevel": 2,
+  "userLabel": "长赢指数投资计划主理人",
+  "userBadgeWear": null,
+  "content": {
+    "title": "",
+    "contents": [
+      {
+        "contentType": 1,
+        "detail": "很多朋友觉得，咱们前几年推出的“个人养老金”制度，等于大漂亮的401k。\n\n这是错误的理解。\n\n大漂亮的养老体系实际上有三层。\n\n第一层叫Social Security。也就是社安金。\n\n资金来源是工资税，个人和企业各6%。领取的时候会根据缴费金额和年限有差别，但差距不会很大。\n\n这是一个大池子，大家投钱，大家分。但目前看压力很大。\n\n这个钱缴款的人，缴款人的家属以及生活有困难的人可以领。\n\n第二层是401K。\n\n个人投一部分，雇主再投一部分。这里面的钱都是个人自己的。投什么都可以。指数，债券，存款等。\n\n传统401K和ROTH 401K都是这个部分。\n\n第三层叫IRA账户。\n\n这个是自己可以缴款投资的账户，这才是类似于我们个人养老金的账户。纯自己缴款。自己提取。\n\n\n\n401K和IRA之所以有人愿意缴款，是因为有税收优惠。跟我们的个人养老金账户一样。（个人养老金不是社保，可能有朋友会搞混。社保类似于社安金，各国有缴款比例的区别。）\n\n\n省流：\n\n社安金是大池子。缴款的人和穷人可以领。\n\n401k和IRA是自己的账户。前者个人和企业缴款，后者自己缴款。钱都是自己的。\n\n\n目前各国的大池子养老金账户都比较困难。这个模式未来会怎么发展，还需要观察。",
+        "embedProdList": []
+      }
+    ],
+    "intro": "很多朋友觉得，咱们前几年推出的“个人养老金”制度，等于大漂亮",
+    "images": []
+  },
+  "contentVersion": 0,
+  "richContent": null,
+  "title": "",
+  "type": 1,
+  "questionId": null,
+  "question": null,
+  "topicId": null,
+  "topic": "",
+  "postTopic": null,
+  "isSticky": false,
+  "isAwesome": false,
+  "likeNum": 1362,
+  "liked": false,
+  "commentNum": 1,
+  "questionFollowed": false,
+  "collected": false,
+  "collectionCount": 281,
+  "collectedAt": null,
+  "actionAt": null,
+  "commentList": [
+    {
+      "id": 2400007,
+      "postId": 91267,
+      "articleId": null,
+      "broker": "0008",
+      "userLevel": 2,
+      "userBadgeWear": null,
+      "toCommentId": null,
+      "toReplyId": null,
+      "content": "前几年我在微博就说了，各位还是多给自己攒点退休的钱比较好。",
+      "images": null,
+      "audited": 1,
+      "createdAt": "2026-10-12T14:34:19",
+      "likeNum": null,
+      "liked": null,
+      "commentNum": null,
+      "children": null,
+      "pinned": false,
+      "authorEngaged": 0,
+      "heatScore": 9780
+    }
+  ],
+  "answerList": [],
+  "answerNum": 0,
+  "answerUserNum": 0,
+  "deleted": false,
+  "createdAt": "2026-10-12T14:25:39",
+  "modified": "2026-10-12T14:34:19.55",
+  "sort": "1791786859550118741",
+  "url": null,
+  "mood": null,
+  "audited": 1,
+  "files": [],
+  "permissions": {
+    "viewPermission": 1,
+    "commentPermission": 2,
+    "viewStrategies": [
+      "LONG_WIN",
+      "LONG_WIN_S"
+    ]
+  },
+  "modifyAt": "2026-10-12 14:31:11",
+  "ramblingTagged": false,
+  "ramblingTags": [],
+  "toolKeys": [],
+  "communityTools": [],
+  "groupInfo": {
+    "groupId": 43,
+    "broker": "0008",
+    "groupName": "长赢同路人",
+    "avatarUrl": "https://asset2.qieman.com/images/53b93bb1-6ccb-437e-b6da-ff8760a141db.png",
+    "groupDesc": "专属于长赢投资者和E大的交流空间。慢慢买入便宜的指数基金，慢慢等待开花结果。",
+    "groupRule": "为保证阅读体验，小组暂时仅限组长和管理员可发布内容，各位成员可在内容下的评论交流～请务必遵守社区规范，文明理性发言哦😊",
+    "priority": 1,
+    "setupTime": "2025-10-13T13:57:24",
+    "isPrivate": false,
+    "pinned": false,
+    "canSetPin": false
+  },
+  "canView": true,
+  "canComment": false,
+  "canControlCommentVisibility": false,
+  "audioInfo": {
+    "audioUrl": "https://cdn-community.qieman.com/community-audio/post/91267/zhixiaoxia_3b6dc9d6.mp3",
+    "audioDuration": 102,
+    "voiceType": "zhixiaoxia"
+  }
+}

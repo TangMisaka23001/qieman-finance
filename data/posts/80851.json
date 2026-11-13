@@ -1,0 +1,104 @@
+{
+  "id": 80851,
+  "userLevel": 2,
+  "userLabel": "长赢指数投资计划主理人",
+  "userBadgeWear": null,
+  "content": {
+    "title": "",
+    "contents": [
+      {
+        "contentType": 1,
+        "detail": "没有看多看空的意思。\n\n留个A股记录。 \n\n科创50/全指信息。\n\n",
+        "embedProdList": []
+      }
+    ],
+    "intro": "没有看多看空的意思。\n\n留个A股记录。 \n\n科创50/全指信",
+    "images": [
+      "https://cdn-community.qieman.com/ABD3EA55-A231-4425-BA59-B038171A830A.png",
+      "https://cdn-community.qieman.com/AE88067F-7452-4F37-8077-F7780F042FA3.png"
+    ]
+  },
+  "contentVersion": 0,
+  "richContent": null,
+  "title": "",
+  "type": 1,
+  "questionId": null,
+  "question": null,
+  "topicId": null,
+  "topic": "",
+  "postTopic": null,
+  "isSticky": false,
+  "isAwesome": false,
+  "likeNum": 1640,
+  "liked": false,
+  "commentNum": 1,
+  "questionFollowed": false,
+  "collected": false,
+  "collectionCount": 221,
+  "collectedAt": null,
+  "actionAt": null,
+  "commentList": [
+    {
+      "id": 2221231,
+      "postId": 80851,
+      "articleId": null,
+      "broker": "0008",
+      "userLevel": 2,
+      "userBadgeWear": null,
+      "toCommentId": null,
+      "toReplyId": null,
+      "content": "其实想想，市盈率100倍和200倍、300倍、1000倍，有什么区别吗。没有。这就是为什么涨起来是没有上限的——既然到了200倍，为什么不能到1000倍？能涨多少，全看人的疯狂程度。",
+      "images": null,
+      "audited": 1,
+      "createdAt": "2026-07-02T10:20:45",
+      "likeNum": null,
+      "liked": null,
+      "commentNum": null,
+      "children": null,
+      "pinned": false,
+      "authorEngaged": 0,
+      "heatScore": 17250
+    }
+  ],
+  "answerList": [],
+  "answerNum": 0,
+  "answerUserNum": 0,
+  "deleted": false,
+  "createdAt": "2026-07-02T09:59:18",
+  "modified": "2026-07-02T10:20:45.247",
+  "sort": "1782958845247676703",
+  "url": null,
+  "mood": null,
+  "audited": 1,
+  "files": [],
+  "permissions": {
+    "viewPermission": 1,
+    "commentPermission": 2,
+    "viewStrategies": [
+      "LONG_WIN",
+      "LONG_WIN_S"
+    ]
+  },
+  "modifyAt": "2026-07-02 10:08:38",
+  "ramblingTagged": false,
+  "ramblingTags": [],
+  "toolKeys": [],
+  "communityTools": [],
+  "groupInfo": {
+    "groupId": 43,
+    "broker": "0008",
+    "groupName": "长赢同路人",
+    "avatarUrl": "https://asset2.qieman.com/images/53b93bb1-6ccb-437e-b6da-ff8760a141db.png",
+    "groupDesc": "专属于长赢投资者和E大的交流空间。慢慢买入便宜的指数基金，慢慢等待开花结果。",
+    "groupRule": "为保证阅读体验，小组暂时仅限组长和管理员可发布内容，各位成员可在内容下的评论交流～请务必遵守社区规范，文明理性发言哦😊",
+    "priority": 1,
+    "setupTime": "2025-10-13T13:57:24",
+    "isPrivate": false,
+    "pinned": false,
+    "canSetPin": false
+  },
+  "canView": true,
+  "canComment": false,
+  "canControlCommentVisibility": false,
+  "audioInfo": null
+}

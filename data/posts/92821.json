@@ -1,0 +1,81 @@
+{
+  "id": 92821,
+  "userLevel": 2,
+  "userLabel": "长赢指数投资计划主理人",
+  "userBadgeWear": null,
+  "content": {
+    "title": "",
+    "contents": [
+      {
+        "contentType": 1,
+        "detail": "在某些市场投资，能卖在最高位当然好。但如果卖不到也没事。\n\n只要你是理性卖出，市场就会给你买回来的机会。\n\n把你没有赚到的，那些疯子买出来的利润还给你——用更低的风险。\n\n理性的人在疯狂的时候，看起来会像个沙雕。因为你“卖低”了。\n\n只有理智的人自己知道，在自己无法认知无法理解的地方把自己的钱投进去，才是真正的沙雕。\n\n一定会买回来的。一次次发生。",
+        "embedProdList": []
+      }
+    ],
+    "intro": "在某些市场投资，能卖在最高位当然好。但如果卖不到也没事。\n\n",
+    "images": [
+      "https://cdn-community.qieman.com/8B646912-6DFC-45AC-9BDA-21A4C8AD5524.png"
+    ]
+  },
+  "contentVersion": 0,
+  "richContent": null,
+  "title": "",
+  "type": 1,
+  "questionId": null,
+  "question": null,
+  "topicId": null,
+  "topic": "",
+  "postTopic": null,
+  "isSticky": false,
+  "isAwesome": false,
+  "likeNum": 1491,
+  "liked": false,
+  "commentNum": 0,
+  "questionFollowed": false,
+  "collected": false,
+  "collectionCount": 174,
+  "collectedAt": null,
+  "actionAt": null,
+  "commentList": [],
+  "answerList": [],
+  "answerNum": 0,
+  "answerUserNum": 0,
+  "deleted": false,
+  "createdAt": "2026-10-22T10:19:21",
+  "modified": "2026-10-22T10:20:07.064",
+  "sort": "1792635607064819894",
+  "url": null,
+  "mood": null,
+  "audited": 1,
+  "files": [],
+  "permissions": {
+    "viewPermission": 1,
+    "commentPermission": 2,
+    "viewStrategies": [
+      "LONG_WIN",
+      "LONG_WIN_S"
+    ]
+  },
+  "modifyAt": "2026-10-22 10:20:07",
+  "ramblingTagged": false,
+  "ramblingTags": [],
+  "toolKeys": [],
+  "communityTools": [],
+  "groupInfo": {
+    "groupId": 43,
+    "broker": "0008",
+    "groupName": "长赢同路人",
+    "avatarUrl": "https://asset2.qieman.com/images/53b93bb1-6ccb-437e-b6da-ff8760a141db.png",
+    "groupDesc": "专属于长赢投资者和E大的交流空间。慢慢买入便宜的指数基金，慢慢等待开花结果。",
+    "groupRule": "为保证阅读体验，小组暂时仅限组长和管理员可发布内容，各位成员可在内容下的评论交流～请务必遵守社区规范，文明理性发言哦😊",
+    "priority": 1,
+    "setupTime": "2025-10-13T13:57:24",
+    "isPrivate": false,
+    "pinned": false,
+    "canSetPin": false
+  },
+  "canView": true,
+  "canComment": false,
+  "canControlCommentVisibility": false,
+  "audioInfo": null
+}

@@ -1,0 +1,105 @@
+{
+  "id": 86851,
+  "userLevel": 2,
+  "userLabel": "长赢指数投资计划主理人",
+  "userBadgeWear": null,
+  "content": {
+    "title": "",
+    "contents": [
+      {
+        "contentType": 1,
+        "detail": "真正的自由，是时间的自由，而非财务的自由。\n\n很多朋友觉得有了足够的钱，就是自由。大错特错。\n\n自由不是随意挥霍的金钱，而是随心所欲的时间。不是想买什么就买什么，而是想把时间花在什么事情上，就花在什么事情上。不被强迫，不被束缚。（极端例子是被抓起来的福布斯富豪）\n\n你再有钱，被各种事情绑住，不能把时间花在你想做的事情上面，根本也不是什么自由。\n\n如果这样想，那么对于自由与金钱关系的理解，就会完全不同。\n\n这时候自由就没有一个固定的数字，因为对每个人来说，让自己时间自由的钱，是完全不同的。\n\n有些人很有钱，但依然痛苦的做自己不想做的事情。有些人看起来没什么钱，但开心的把时间花在自己想过的日子中。后者才是自由，而非前者。\n\n自由，有关金钱，也有关野心、责任感……等等，等等。",
+        "embedProdList": []
+      }
+    ],
+    "intro": "真正的自由，是时间的自由，而非财务的自由。\n\n很多朋友觉得有",
+    "images": []
+  },
+  "contentVersion": 0,
+  "richContent": null,
+  "title": "",
+  "type": 1,
+  "questionId": null,
+  "question": null,
+  "topicId": null,
+  "topic": "",
+  "postTopic": null,
+  "isSticky": false,
+  "isAwesome": false,
+  "likeNum": 2491,
+  "liked": false,
+  "commentNum": 1,
+  "questionFollowed": false,
+  "collected": false,
+  "collectionCount": 379,
+  "collectedAt": null,
+  "actionAt": null,
+  "commentList": [
+    {
+      "id": 2340301,
+      "postId": 86851,
+      "articleId": null,
+      "broker": "0008",
+      "userLevel": 2,
+      "userBadgeWear": null,
+      "toCommentId": null,
+      "toReplyId": null,
+      "content": "声明：没有为各位服务是我不愿意做的事情这种意思。🫶",
+      "images": null,
+      "audited": 1,
+      "createdAt": "2026-08-27T14:48:31",
+      "likeNum": null,
+      "liked": null,
+      "commentNum": null,
+      "children": null,
+      "pinned": false,
+      "authorEngaged": 0,
+      "heatScore": 18780
+    }
+  ],
+  "answerList": [],
+  "answerNum": 0,
+  "answerUserNum": 0,
+  "deleted": false,
+  "createdAt": "2026-08-27T14:18:03",
+  "modified": "2026-08-27T14:48:31.803",
+  "sort": "1787813311803092343",
+  "url": null,
+  "mood": null,
+  "audited": 1,
+  "files": [],
+  "permissions": {
+    "viewPermission": 1,
+    "commentPermission": 2,
+    "viewStrategies": [
+      "LONG_WIN",
+      "LONG_WIN_S"
+    ]
+  },
+  "modifyAt": "2026-08-27 14:44:34",
+  "ramblingTagged": false,
+  "ramblingTags": [],
+  "toolKeys": [],
+  "communityTools": [],
+  "groupInfo": {
+    "groupId": 43,
+    "broker": "0008",
+    "groupName": "长赢同路人",
+    "avatarUrl": "https://asset2.qieman.com/images/53b93bb1-6ccb-437e-b6da-ff8760a141db.png",
+    "groupDesc": "专属于长赢投资者和E大的交流空间。慢慢买入便宜的指数基金，慢慢等待开花结果。",
+    "groupRule": "为保证阅读体验，小组暂时仅限组长和管理员可发布内容，各位成员可在内容下的评论交流～请务必遵守社区规范，文明理性发言哦😊",
+    "priority": 1,
+    "setupTime": "2025-10-13T13:57:24",
+    "isPrivate": false,
+    "pinned": false,
+    "canSetPin": false
+  },
+  "canView": true,
+  "canComment": false,
+  "canControlCommentVisibility": false,
+  "audioInfo": {
+    "audioUrl": "https://cdn-community.qieman.com/community-audio/post/86851/zhixiaoxia_65b5b97e.mp3",
+    "audioDuration": 64,
+    "voiceType": "zhixiaoxia"
+  }
+}

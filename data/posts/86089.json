@@ -1,0 +1,83 @@
+{
+  "id": 86089,
+  "userLevel": 2,
+  "userLabel": "长赢指数投资计划主理人",
+  "userBadgeWear": null,
+  "content": {
+    "title": "",
+    "contents": [
+      {
+        "contentType": 1,
+        "detail": "今天市场大跌，但红利继续上涨。尤其是中证红利维持强势。\n\n我想预先通知一下。如果这个状态持续到一个极端的情况，我有可能会做出“先卖后买”的换仓动作。\n\n以前是先买易方达，上涨几个点后卖出富国。\n\n未来有可能出现先卖富国，下跌几个点后买回易方达。\n\n\n但是，这样做风险不小，有可能接不回来。各位也可以观摩一下，我目前的中短期技术水平，是否支持这样的高难度操作。\n\n同时，我极不建议绝大多数朋友在自己操作的，类似的策略中先卖后买。因为丢掉优质筹码的伤害性远高于换仓收益。\n\n我在计划中做的原因是：\n\n第一，对自己判断中短期走势稍微有一点点自信。\n\n第二，操作的仓位极低。即使买不回来，也不影响大局。\n\n\n总之就是这样。事先声明一下，免得到时候又有人提出质疑。\n\n\n\n\n\n\n",
+        "embedProdList": []
+      }
+    ],
+    "images": [],
+    "intro": "今天市场大跌，但红利继续上涨。尤其是中证红利维持强势。\n\n我"
+  },
+  "contentVersion": 0,
+  "richContent": null,
+  "title": "",
+  "type": 1,
+  "questionId": null,
+  "question": null,
+  "topicId": null,
+  "topic": "",
+  "postTopic": null,
+  "isSticky": false,
+  "isAwesome": false,
+  "likeNum": 1976,
+  "liked": false,
+  "commentNum": 0,
+  "questionFollowed": false,
+  "collected": false,
+  "collectionCount": 233,
+  "collectedAt": null,
+  "actionAt": null,
+  "commentList": [],
+  "answerList": [],
+  "answerNum": 0,
+  "answerUserNum": 0,
+  "deleted": false,
+  "createdAt": "2026-08-19T10:35:05",
+  "modified": "2026-08-19T10:35:05.618",
+  "sort": "1787106905618788236",
+  "url": null,
+  "mood": null,
+  "audited": 1,
+  "files": [],
+  "permissions": {
+    "viewPermission": 1,
+    "commentPermission": 2,
+    "viewStrategies": [
+      "LONG_WIN",
+      "LONG_WIN_S"
+    ]
+  },
+  "modifyAt": null,
+  "ramblingTagged": false,
+  "ramblingTags": [],
+  "toolKeys": [],
+  "communityTools": [],
+  "groupInfo": {
+    "groupId": 43,
+    "broker": "0008",
+    "groupName": "长赢同路人",
+    "avatarUrl": "https://asset2.qieman.com/images/53b93bb1-6ccb-437e-b6da-ff8760a141db.png",
+    "groupDesc": "专属于长赢投资者和E大的交流空间。慢慢买入便宜的指数基金，慢慢等待开花结果。",
+    "groupRule": "为保证阅读体验，小组暂时仅限组长和管理员可发布内容，各位成员可在内容下的评论交流～请务必遵守社区规范，文明理性发言哦😊",
+    "priority": 1,
+    "setupTime": "2025-10-13T13:57:24",
+    "isPrivate": false,
+    "pinned": false,
+    "canSetPin": false
+  },
+  "canView": true,
+  "canComment": false,
+  "canControlCommentVisibility": false,
+  "audioInfo": {
+    "audioUrl": "https://cdn-community.qieman.com/community-audio/post/86089/zhixiaoxia_41fe19fa.mp3",
+    "audioDuration": 65,
+    "voiceType": "zhixiaoxia"
+  }
+}

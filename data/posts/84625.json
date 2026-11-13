@@ -1,0 +1,152 @@
+{
+  "id": 84625,
+  "userLevel": 2,
+  "userLabel": "长赢指数投资计划主理人",
+  "userBadgeWear": null,
+  "content": {
+    "title": "",
+    "contents": [
+      {
+        "contentType": 1,
+        "detail": "这次买A500，我看最多朋友问的是，便宜吗？好像不便宜，为什么买？\n\n以我越来越深的体会，在证券投资领域，便宜当然是非常重要，甚至可以说最重要的一个因素。然而，它必然不能是所有因素。\n\n我想，决定一个品种该买还是卖，至少还要考虑：\n\n我目前的资产配置是否合理，还缺什么，又多了什么；\n\n我这一笔交易，是为了长期持有，还是为了波段操作降低成本增加利润；\n\n目前这个品种的状态如何。短期是否跌太多，又是否涨太多。技术形态如何，是否有交易机会。\n\n\n以A股宽基来说，我们在6月大量卖出中证500指数，导致宽基配置越来越低。在十个点的空间跌出来以后，买回一份是否可以是考虑的选项？\n\n安全性来讲，A500的估值小于中证500，虽然科技行情中弹性略低，但又强于沪深300。这又是一个平衡的选择。\n\n至于长期还是短期，技术形态的问题，篇幅所限，也避免又有人说我发言太多，就不再解释了。",
+        "embedProdList": []
+      }
+    ],
+    "intro": "这次买A500，我看最多朋友问的是，便宜吗？好像不便宜，为什",
+    "images": [
+      "https://cdn-community.qieman.com/8520A545-927E-44F2-8115-2E82AD2CD707.png"
+    ]
+  },
+  "contentVersion": 0,
+  "richContent": null,
+  "title": "",
+  "type": 1,
+  "questionId": null,
+  "question": null,
+  "topicId": null,
+  "topic": "",
+  "postTopic": null,
+  "isSticky": false,
+  "isAwesome": false,
+  "likeNum": 1979,
+  "liked": false,
+  "commentNum": 453,
+  "questionFollowed": false,
+  "collected": false,
+  "collectionCount": 493,
+  "collectedAt": null,
+  "actionAt": null,
+  "commentList": [
+    {
+      "id": 2281705,
+      "postId": 84625,
+      "articleId": null,
+      "broker": "0008",
+      "userLevel": 0,
+      "userBadgeWear": {
+        "id": 890232175,
+        "icon": "https://asset2.qieman.com/images/ce029617-9194-40a4-973d-544e29a2ec52.png"
+      },
+      "toCommentId": null,
+      "toReplyId": null,
+      "content": "感觉E大又要开始玩“战争游戏了”，臆想一些“敌人”在交锋。",
+      "images": null,
+      "audited": 1,
+      "createdAt": "2026-08-05T11:44:51",
+      "likeNum": null,
+      "liked": null,
+      "commentNum": null,
+      "children": null,
+      "pinned": false,
+      "authorEngaged": 2,
+      "heatScore": 1580
+    },
+    {
+      "id": 2280919,
+      "postId": 84625,
+      "articleId": null,
+      "broker": "0008",
+      "userLevel": 0,
+      "userBadgeWear": null,
+      "toCommentId": null,
+      "toReplyId": null,
+      "content": "是不是也可以考虑量化指增",
+      "images": null,
+      "audited": 1,
+      "createdAt": "2026-08-05T11:12:51",
+      "likeNum": null,
+      "liked": null,
+      "commentNum": null,
+      "children": null,
+      "pinned": false,
+      "authorEngaged": 2,
+      "heatScore": 570
+    },
+    {
+      "id": 2280895,
+      "postId": 84625,
+      "articleId": null,
+      "broker": "0008",
+      "userLevel": 0,
+      "userBadgeWear": null,
+      "toCommentId": 2280613,
+      "toReplyId": null,
+      "content": "另外，全指金融bbi周k已经一周站上了，这周还没结束。Macd也有翻红迹象。\n说的不对，还请大家多多指教。",
+      "images": null,
+      "audited": 1,
+      "createdAt": "2026-08-05T11:11:58",
+      "likeNum": null,
+      "liked": null,
+      "commentNum": null,
+      "children": null,
+      "pinned": false,
+      "authorEngaged": 2,
+      "heatScore": 340
+    }
+  ],
+  "answerList": [],
+  "answerNum": 0,
+  "answerUserNum": 0,
+  "deleted": false,
+  "createdAt": "2026-08-05T11:02:24",
+  "modified": "2026-10-13T08:33:15.862",
+  "sort": "1791851595862273359",
+  "url": null,
+  "mood": null,
+  "audited": 1,
+  "files": [],
+  "permissions": {
+    "viewPermission": 1,
+    "commentPermission": 1,
+    "viewStrategies": [
+      "LONG_WIN",
+      "LONG_WIN_S"
+    ]
+  },
+  "modifyAt": "2026-08-05 11:09:15",
+  "ramblingTagged": false,
+  "ramblingTags": [],
+  "toolKeys": [],
+  "communityTools": [],
+  "groupInfo": {
+    "groupId": 43,
+    "broker": "0008",
+    "groupName": "长赢同路人",
+    "avatarUrl": "https://asset2.qieman.com/images/53b93bb1-6ccb-437e-b6da-ff8760a141db.png",
+    "groupDesc": "专属于长赢投资者和E大的交流空间。慢慢买入便宜的指数基金，慢慢等待开花结果。",
+    "groupRule": "为保证阅读体验，小组暂时仅限组长和管理员可发布内容，各位成员可在内容下的评论交流～请务必遵守社区规范，文明理性发言哦😊",
+    "priority": 1,
+    "setupTime": "2025-10-13T13:57:24",
+    "isPrivate": false,
+    "pinned": false,
+    "canSetPin": false
+  },
+  "canView": true,
+  "canComment": true,
+  "canControlCommentVisibility": false,
+  "audioInfo": {
+    "audioUrl": "https://cdn-community.qieman.com/community-audio/post/84625/zhixiaoxia_860a2f77.mp3",
+    "audioDuration": 71,
+    "voiceType": "zhixiaoxia"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": 93919,
+  "userLevel": 2,
+  "userLabel": "长赢指数投资计划主理人",
+  "userBadgeWear": null,
+  "content": {
+    "title": "",
+    "contents": [
+      {
+        "contentType": 1,
+        "detail": "大盘指数，比如300、500、a500等等，这些指数的跌幅，极限恐怕在20%-25%之间。不是说一定到，而是到了的话真的是好机会。\n\n而个股，如果要真的极限底，恐怕是平均要跌35%-40%之间。同样不是说一定到，而是如果到了就是特别特别好的机会。\n\n都是说从现在起。\n\n基本上就是这样判断的。看看这一次速度如何。\n\n我肯定不会等这些点位到了再买。而是在过程中将仓位布置进去。原因很简单，因为不一定到。总想等最低买是一种病。\n\n之所以判断最低区域，是为了给自己的布局有一个规划空间。",
+        "embedProdList": []
+      }
+    ],
+    "intro": "大盘指数，比如300、500、a500等等，这些指数的跌幅，",
+    "images": []
+  },
+  "contentVersion": 0,
+  "richContent": null,
+  "title": "",
+  "type": 1,
+  "questionId": null,
+  "question": null,
+  "topicId": null,
+  "topic": "",
+  "postTopic": null,
+  "isSticky": false,
+  "isAwesome": false,
+  "likeNum": 1594,
+  "liked": false,
+  "commentNum": 0,
+  "questionFollowed": false,
+  "collected": false,
+  "collectionCount": 612,
+  "collectedAt": null,
+  "actionAt": null,
+  "commentList": [],
+  "answerList": [],
+  "answerNum": 0,
+  "answerUserNum": 0,
+  "deleted": false,
+  "createdAt": "2026-10-29T14:44:08",
+  "modified": "2026-10-29T14:47:17.011",
+  "sort": "1793256437011969272",
+  "url": null,
+  "mood": null,
+  "audited": 1,
+  "files": [],
+  "permissions": {
+    "viewPermission": 1,
+    "commentPermission": 2,
+    "viewStrategies": [
+      "LONG_WIN",
+      "LONG_WIN_S"
+    ]
+  },
+  "modifyAt": "2026-10-29 14:47:17",
+  "ramblingTagged": false,
+  "ramblingTags": [],
+  "toolKeys": [],
+  "communityTools": [],
+  "groupInfo": {
+    "groupId": 43,
+    "broker": "0008",
+    "groupName": "长赢同路人",
+    "avatarUrl": "https://asset2.qieman.com/images/53b93bb1-6ccb-437e-b6da-ff8760a141db.png",
+    "groupDesc": "专属于长赢投资者和E大的交流空间。慢慢买入便宜的指数基金，慢慢等待开花结果。",
+    "groupRule": "为保证阅读体验，小组暂时仅限组长和管理员可发布内容，各位成员可在内容下的评论交流～请务必遵守社区规范，文明理性发言哦😊",
+    "priority": 1,
+    "setupTime": "2025-10-13T13:57:24",
+    "isPrivate": false,
+    "pinned": false,
+    "canSetPin": false
+  },
+  "canView": true,
+  "canComment": false,
+  "canControlCommentVisibility": false,
+  "audioInfo": null
+}

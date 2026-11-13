@@ -1,0 +1,113 @@
+{
+  "id": 94411,
+  "userLevel": 2,
+  "userLabel": "长赢指数投资计划主理人",
+  "userBadgeWear": null,
+  "content": {
+    "title": "",
+    "contents": [
+      {
+        "contentType": 1,
+        "detail": "几个月后回头看，你有没有倒吸一口凉气。有没有一点后怕。\n\n接下来，我们要做的就是一步步把它们买回来。然后在下一次别人疯狂的时候，顶住别人的嘲笑，再次卖出。\n\n在某些市场，账面赚到钱大多数人都经历过。谁能把钱带走，才是最后的赢家。",
+        "embedProdList": []
+      }
+    ],
+    "intro": "几个月后回头看，你有没有倒吸一口凉气。有没有一点后怕。\n\n接",
+    "images": [
+      "https://cdn-community.qieman.com/F3A389A5-CE43-4B9B-BBE1-E5A2A84EFC0D.png",
+      "https://cdn-community.qieman.com/BDC54FDC-539C-4DEE-B056-54681D2C5861.png",
+      "https://cdn-community.qieman.com/077C025A-77D8-403F-87AE-F22506025C69.png",
+      "https://cdn-community.qieman.com/475869D7-AB6F-4FE0-90DF-46479A5F2093.png",
+      "https://cdn-community.qieman.com/CAE34927-CA86-4740-92C3-723C083B837D.png",
+      "https://cdn-community.qieman.com/07FE7F2B-9645-41B8-B3FC-6DF4B257671E.png",
+      "https://cdn-community.qieman.com/B6A0B398-2C70-458F-A6FF-0F4BBDE36DCB.png",
+      "https://cdn-community.qieman.com/6C0FC9D7-D7D7-40A8-AF17-6DFBCF9B85A9.png",
+      "https://cdn-community.qieman.com/75BF599A-F6A7-4548-A18C-39188F2C906F.png"
+    ]
+  },
+  "contentVersion": 0,
+  "richContent": null,
+  "title": "",
+  "type": 1,
+  "questionId": null,
+  "question": null,
+  "topicId": null,
+  "topic": "",
+  "postTopic": null,
+  "isSticky": false,
+  "isAwesome": false,
+  "likeNum": 1708,
+  "liked": false,
+  "commentNum": 1,
+  "questionFollowed": false,
+  "collected": false,
+  "collectionCount": 219,
+  "collectedAt": null,
+  "actionAt": null,
+  "commentList": [
+    {
+      "id": 2529037,
+      "postId": 94411,
+      "articleId": null,
+      "broker": "0008",
+      "userLevel": 2,
+      "userBadgeWear": null,
+      "toCommentId": null,
+      "toReplyId": null,
+      "content": "",
+      "images": [
+        "https://cdn-community.qieman.com/92D64808-3210-40D1-A0DF-BA953DC91FCE.png?x-oss-process=image/watermark,text_5LiU5oWiLUVURuaLr-aVkeS4lueVjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_30,g_se,x_10,y_10,t_50,shadow_50"
+      ],
+      "audited": 1,
+      "createdAt": "2026-11-01T16:17:42",
+      "likeNum": null,
+      "liked": null,
+      "commentNum": null,
+      "children": null,
+      "pinned": false,
+      "authorEngaged": 0,
+      "heatScore": 3180
+    }
+  ],
+  "answerList": [],
+  "answerNum": 0,
+  "answerUserNum": 0,
+  "deleted": false,
+  "createdAt": "2026-11-01T16:17:21",
+  "modified": "2026-11-01T16:18:12.315",
+  "sort": "1793521092315527599",
+  "url": null,
+  "mood": null,
+  "audited": 1,
+  "files": [],
+  "permissions": {
+    "viewPermission": 1,
+    "commentPermission": 2,
+    "viewStrategies": [
+      "LONG_WIN",
+      "LONG_WIN_S"
+    ]
+  },
+  "modifyAt": "2026-11-01 16:18:12",
+  "ramblingTagged": false,
+  "ramblingTags": [],
+  "toolKeys": [],
+  "communityTools": [],
+  "groupInfo": {
+    "groupId": 43,
+    "broker": "0008",
+    "groupName": "长赢同路人",
+    "avatarUrl": "https://asset2.qieman.com/images/53b93bb1-6ccb-437e-b6da-ff8760a141db.png",
+    "groupDesc": "专属于长赢投资者和E大的交流空间。慢慢买入便宜的指数基金，慢慢等待开花结果。",
+    "groupRule": "为保证阅读体验，小组暂时仅限组长和管理员可发布内容，各位成员可在内容下的评论交流～请务必遵守社区规范，文明理性发言哦😊",
+    "priority": 1,
+    "setupTime": "2025-10-13T13:57:24",
+    "isPrivate": false,
+    "pinned": false,
+    "canSetPin": false
+  },
+  "canView": true,
+  "canComment": false,
+  "canControlCommentVisibility": false,
+  "audioInfo": null
+}

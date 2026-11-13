@@ -1,0 +1,152 @@
+{
+  "id": 63565,
+  "userLevel": 2,
+  "userLabel": "长赢指数投资计划主理人",
+  "userBadgeWear": null,
+  "content": {
+    "title": "",
+    "contents": [
+      {
+        "contentType": 1,
+        "detail": "低买高卖会不会让你觉得很幸福又踏实。\n\n追热门十有八九就是买单的。",
+        "embedProdList": []
+      }
+    ],
+    "images": [],
+    "intro": "低买高卖会不会让你觉得很幸福又踏实。\n\n追热门十有八九就是买"
+  },
+  "contentVersion": 0,
+  "richContent": null,
+  "title": "",
+  "type": 1,
+  "questionId": null,
+  "question": null,
+  "topicId": null,
+  "topic": "",
+  "postTopic": null,
+  "isSticky": false,
+  "isAwesome": false,
+  "likeNum": 1386,
+  "liked": false,
+  "commentNum": 515,
+  "questionFollowed": false,
+  "collected": false,
+  "collectionCount": 58,
+  "collectedAt": null,
+  "actionAt": null,
+  "commentList": [
+    {
+      "id": 1177105,
+      "postId": 63565,
+      "articleId": null,
+      "broker": "0008",
+      "userLevel": 0,
+      "userBadgeWear": {
+        "id": 1637326669,
+        "icon": "https://asset2.qieman.com/images/ce029617-9194-40a4-973d-544e29a2ec52.png"
+      },
+      "toCommentId": null,
+      "toReplyId": null,
+      "content": "没车的时候真的很无聊啊，没有且慢的小红点更无聊了😫",
+      "images": null,
+      "audited": 1,
+      "createdAt": "2026-01-20T14:42:45",
+      "likeNum": null,
+      "liked": null,
+      "commentNum": null,
+      "children": null,
+      "pinned": false,
+      "authorEngaged": 0,
+      "heatScore": 4870
+    },
+    {
+      "id": 1176325,
+      "postId": 63565,
+      "articleId": null,
+      "broker": "0008",
+      "userLevel": 0,
+      "userBadgeWear": {
+        "id": 2308012579,
+        "icon": "https://asset2.qieman.com/images/7cd3bd45-6b2e-4f4a-921c-3a4a59619041.png"
+      },
+      "toCommentId": null,
+      "toReplyId": null,
+      "content": "各位可以去富国基金公众号登录一下，过几天可以薅点羊毛",
+      "images": null,
+      "audited": 1,
+      "createdAt": "2026-01-20T14:36:20",
+      "likeNum": null,
+      "liked": null,
+      "commentNum": null,
+      "children": null,
+      "pinned": false,
+      "authorEngaged": 0,
+      "heatScore": 3560
+    },
+    {
+      "id": 1176169,
+      "postId": 63565,
+      "articleId": null,
+      "broker": "0008",
+      "userLevel": 0,
+      "userBadgeWear": {
+        "id": 1212242827,
+        "icon": "https://asset2.qieman.com/images/ce029617-9194-40a4-973d-544e29a2ec52.png"
+      },
+      "toCommentId": null,
+      "toReplyId": null,
+      "content": "有老大在，幸福的像花儿一样",
+      "images": null,
+      "audited": 1,
+      "createdAt": "2026-01-20T14:34:42",
+      "likeNum": null,
+      "liked": null,
+      "commentNum": null,
+      "children": null,
+      "pinned": false,
+      "authorEngaged": 0,
+      "heatScore": 1980
+    }
+  ],
+  "answerList": [],
+  "answerNum": 0,
+  "answerUserNum": 0,
+  "deleted": false,
+  "createdAt": "2026-01-20T14:33:41",
+  "modified": "2026-03-06T15:23:23.105",
+  "sort": "1772781803105174223",
+  "url": null,
+  "mood": null,
+  "audited": 1,
+  "files": [],
+  "permissions": {
+    "viewPermission": 1,
+    "commentPermission": 1,
+    "viewStrategies": [
+      "LONG_WIN",
+      "LONG_WIN_S"
+    ]
+  },
+  "modifyAt": null,
+  "ramblingTagged": false,
+  "ramblingTags": [],
+  "toolKeys": [],
+  "communityTools": [],
+  "groupInfo": {
+    "groupId": 43,
+    "broker": "0008",
+    "groupName": "长赢同路人",
+    "avatarUrl": "https://asset2.qieman.com/images/53b93bb1-6ccb-437e-b6da-ff8760a141db.png",
+    "groupDesc": "专属于长赢投资者和E大的交流空间。慢慢买入便宜的指数基金，慢慢等待开花结果。",
+    "groupRule": "为保证阅读体验，小组暂时仅限组长和管理员可发布内容，各位成员可在内容下的评论交流～请务必遵守社区规范，文明理性发言哦😊",
+    "priority": 1,
+    "setupTime": "2025-10-13T13:57:24",
+    "isPrivate": false,
+    "pinned": false,
+    "canSetPin": false
+  },
+  "canView": true,
+  "canComment": true,
+  "canControlCommentVisibility": false,
+  "audioInfo": null
+}

@@ -1,0 +1,153 @@
+{
+  "id": 56965,
+  "userLevel": 2,
+  "userLabel": "长赢指数投资计划主理人",
+  "userBadgeWear": null,
+  "content": {
+    "title": "",
+    "contents": [
+      {
+        "contentType": 1,
+        "detail": "其实很多人并不知道自己真的需要多少钱。\n\n待富的时候，通常是一个随口说的整数：\n\n“我有100万就够了”、“我有200万就退休”、“我有300万就能幸福”。\n\n有一天真的有了100、200、300，他们没有够、没有退休，也没有幸福。\n\n你也能经常在网上看到，有人说500万、1000万、2000万哪里够财务自由啊。实际上，他们的月薪比不上500万的利息收入，其实也能好好的过完一生。这是因为，他们对钱根本没有一个正确的认知。\n\n\n有些人有了点钱就挥霍，乱投资，最终重新一贫如洗甚至债台高筑；\n\n有些人有了很多钱依然省吃俭用，不舍得让自己过得舒适一些，最终离开这个世界的时候，剩下了一大堆数字，这些数字本来应该帮助他拥有很多美好回忆。\n\n\n那个退休/财务自由计算器，就是用来告诉你，通过各种参数的变化，以现在的资产，不发生超级变局的情况下，你可以/应该过什么样的生活。\n\n不至于坐吃山空，也不至于除了钱什么都没有。\n\n看似一个简单的计算器，实际上是改变人生一部分的开始。\n\n\n\n\n\n\n",
+        "embedProdList": []
+      }
+    ],
+    "intro": "其实很多人并不知道自己真的需要多少钱。\n\n待富的时候，通常是",
+    "images": []
+  },
+  "contentVersion": 0,
+  "richContent": null,
+  "title": "",
+  "type": 1,
+  "questionId": null,
+  "question": null,
+  "topicId": null,
+  "topic": "",
+  "postTopic": null,
+  "isSticky": false,
+  "isAwesome": false,
+  "likeNum": 1467,
+  "liked": false,
+  "commentNum": 482,
+  "questionFollowed": false,
+  "collected": false,
+  "collectionCount": 285,
+  "collectedAt": null,
+  "actionAt": null,
+  "commentList": [
+    {
+      "id": 597073,
+      "postId": 56965,
+      "articleId": null,
+      "broker": "0008",
+      "userLevel": 0,
+      "userBadgeWear": {
+        "id": 175406,
+        "icon": "https://asset2.qieman.com/images/bd9834d8-6df4-413c-adc4-358467be5856.png"
+      },
+      "toCommentId": 595747,
+      "toReplyId": null,
+      "content": "面斥不雅",
+      "images": null,
+      "audited": 1,
+      "createdAt": "2025-12-06T12:00:39",
+      "likeNum": null,
+      "liked": null,
+      "commentNum": null,
+      "children": null,
+      "pinned": false,
+      "authorEngaged": 0,
+      "heatScore": 2800
+    },
+    {
+      "id": 596239,
+      "postId": 56965,
+      "articleId": null,
+      "broker": "0008",
+      "userLevel": 0,
+      "userBadgeWear": null,
+      "toCommentId": null,
+      "toReplyId": null,
+      "content": "E大周末好，\n【留言1】这个改变人生的模型，现在「大诞生」了，触手可及。\n不再是空想“该赚多少钱”，而是用模型算清“现有资产能支撑多久被动收入”，“还差多少能让现金流持续跑下去”。\n从“提款”反推“积累”，让“被动收入”也不再是模糊的概念，变成“每多攒一块钱，就离永续近一步”的具体路径。\n.\n【回顾】「提款模型」的历史进程\n===WB 2025.07.09===\n问你两个问题。\n\n第一，你的年支出是多少。            \n               \n第二，你的金融资产是你的年支出多少倍。\n\n如果你不愿意说，自己就弄清楚这两个问题。你的财务目标就会有点数了。 \n -\n二级市场捡辣鸡冠军:20-25倍以上，如果自己不作，如果不发生巨大的宏观变化，极大概率就很稳了，不要太焦虑钱的事情。\n",
+      "images": null,
+      "audited": 1,
+      "createdAt": "2025-12-06T11:08:55",
+      "likeNum": null,
+      "liked": null,
+      "commentNum": null,
+      "children": null,
+      "pinned": false,
+      "authorEngaged": 0,
+      "heatScore": 5200
+    },
+    {
+      "id": 595747,
+      "postId": 56965,
+      "articleId": null,
+      "broker": "0008",
+      "userLevel": 0,
+      "userBadgeWear": {
+        "id": 694143835,
+        "icon": "https://asset2.qieman.com/images/28c24c22-49f9-46bf-b154-b791dd564ab6.png"
+      },
+      "toCommentId": null,
+      "toReplyId": null,
+      "content": "是的，爸～",
+      "images": null,
+      "audited": 1,
+      "createdAt": "2025-12-06T11:03:13",
+      "likeNum": null,
+      "liked": null,
+      "commentNum": null,
+      "children": null,
+      "pinned": false,
+      "authorEngaged": 0,
+      "heatScore": 6670
+    }
+  ],
+  "answerList": [],
+  "answerNum": 0,
+  "answerUserNum": 0,
+  "deleted": false,
+  "createdAt": "2025-12-06T10:59:23",
+  "modified": "2026-01-20T11:43:26.153",
+  "sort": "1768880606153428281",
+  "url": null,
+  "mood": null,
+  "audited": 1,
+  "files": [],
+  "permissions": {
+    "viewPermission": 1,
+    "commentPermission": 1,
+    "viewStrategies": [
+      "LONG_WIN",
+      "LONG_WIN_S"
+    ]
+  },
+  "modifyAt": "2025-12-06 11:02:20",
+  "ramblingTagged": false,
+  "ramblingTags": [],
+  "toolKeys": null,
+  "communityTools": [],
+  "groupInfo": {
+    "groupId": 43,
+    "broker": "0008",
+    "groupName": "长赢同路人",
+    "avatarUrl": "https://asset2.qieman.com/images/53b93bb1-6ccb-437e-b6da-ff8760a141db.png",
+    "groupDesc": "专属于长赢投资者和E大的交流空间。慢慢买入便宜的指数基金，慢慢等待开花结果。",
+    "groupRule": "为保证阅读体验，小组暂时仅限组长和管理员可发布内容，各位成员可在内容下的评论交流～请务必遵守社区规范，文明理性发言哦😊",
+    "priority": 1,
+    "setupTime": "2025-10-13T13:57:24",
+    "isPrivate": false,
+    "pinned": false,
+    "canSetPin": false
+  },
+  "canView": true,
+  "canComment": true,
+  "canControlCommentVisibility": false,
+  "audioInfo": {
+    "audioUrl": "https://cdn-community.qieman.com/community-audio/post/56965/zhixiaoxia_8affcd53.mp3",
+    "audioDuration": 76,
+    "voiceType": "zhixiaoxia"
+  }
+}

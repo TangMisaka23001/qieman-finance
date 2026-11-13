@@ -1,0 +1,79 @@
+{
+  "id": 93067,
+  "userLevel": 2,
+  "userLabel": "长赢指数投资计划主理人",
+  "userBadgeWear": null,
+  "content": {
+    "title": "",
+    "contents": [
+      {
+        "contentType": 1,
+        "detail": "很多朋友以为昨天美股大跌。其实这个认知不全面。\n\n昨天科技股大跌。但是红利股，医药股，消费股都是大涨，相关ETF历史新高。\n\n另外，美债大幅反弹。长债涨近三个点，中期债近一个点，短债几乎历史新高。各位的美债持仓今晚净值就会有所体现。也是配置不相关资产的好处。\n\n前几天这笔美债买入，今年以前我一定为了照顾各位情绪前思后想顾虑重重。但是今年开始就绝对不会了。我觉得该买就买。不会再为了各位的短期情绪影响长期收益。\n\n\n\n\n\n\n\n\n",
+        "embedProdList": []
+      }
+    ],
+    "intro": "很多朋友以为昨天美股大跌。其实这个认知不全面。\n\n昨天科技股",
+    "images": []
+  },
+  "contentVersion": 0,
+  "richContent": null,
+  "title": "",
+  "type": 1,
+  "questionId": null,
+  "question": null,
+  "topicId": null,
+  "topic": "",
+  "postTopic": null,
+  "isSticky": false,
+  "isAwesome": false,
+  "likeNum": 1702,
+  "liked": false,
+  "commentNum": 0,
+  "questionFollowed": false,
+  "collected": false,
+  "collectionCount": 134,
+  "collectedAt": null,
+  "actionAt": null,
+  "commentList": [],
+  "answerList": [],
+  "answerNum": 0,
+  "answerUserNum": 0,
+  "deleted": false,
+  "createdAt": "2026-10-23T09:30:25",
+  "modified": "2026-10-23T10:38:15.533",
+  "sort": "1792723095533200378",
+  "url": null,
+  "mood": null,
+  "audited": 1,
+  "files": [],
+  "permissions": {
+    "viewPermission": 1,
+    "commentPermission": 2,
+    "viewStrategies": [
+      "LONG_WIN",
+      "LONG_WIN_S"
+    ]
+  },
+  "modifyAt": "2026-10-23 10:38:15",
+  "ramblingTagged": false,
+  "ramblingTags": [],
+  "toolKeys": [],
+  "communityTools": [],
+  "groupInfo": {
+    "groupId": 43,
+    "broker": "0008",
+    "groupName": "长赢同路人",
+    "avatarUrl": "https://asset2.qieman.com/images/53b93bb1-6ccb-437e-b6da-ff8760a141db.png",
+    "groupDesc": "专属于长赢投资者和E大的交流空间。慢慢买入便宜的指数基金，慢慢等待开花结果。",
+    "groupRule": "为保证阅读体验，小组暂时仅限组长和管理员可发布内容，各位成员可在内容下的评论交流～请务必遵守社区规范，文明理性发言哦😊",
+    "priority": 1,
+    "setupTime": "2025-10-13T13:57:24",
+    "isPrivate": false,
+    "pinned": false,
+    "canSetPin": false
+  },
+  "canView": true,
+  "canComment": false,
+  "canControlCommentVisibility": false,
+  "audioInfo": null
+}

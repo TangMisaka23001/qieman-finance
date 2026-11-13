@@ -1,0 +1,79 @@
+{
+  "id": 87937,
+  "userLevel": 2,
+  "userLabel": "长赢指数投资计划主理人",
+  "userBadgeWear": null,
+  "content": {
+    "title": "",
+    "contents": [
+      {
+        "contentType": 1,
+        "detail": "所有的事情最后都会变好。如果还没有，就是还没到最后。\n\n昨天晚上，几年前买了我一套房的人微信窗口跳了出来。说，你好。\n\n我说，你好。\n\n她说，是这样的，我昨天收拾衣柜，把抽屉卸下来清理，发现下面有一个毕业证。\n\n……\n\n就这样，我找了好几年的毕业证回来了。\n\n我转了500快递费给她，她不收。我下单800块的s超市水果给她，表达我的感激之情。\n\n与你分享开心的事。并请你坚信所有的事情最后都会变好。\n\nPS:经验教训\n\n之一，小心东西从抽屉后面掉进缝隙。\n\n之二，除非必要，否则不要删除任何看起来“没用”的联系人。\n\n之三，尽量给别人留个好印象。\n\n\n\n",
+        "embedProdList": []
+      }
+    ],
+    "images": [],
+    "intro": "所有的事情最后都会变好。如果还没有，就是还没到最后。\n\n昨天"
+  },
+  "contentVersion": 0,
+  "richContent": null,
+  "title": "",
+  "type": 1,
+  "questionId": null,
+  "question": null,
+  "topicId": null,
+  "topic": "",
+  "postTopic": null,
+  "isSticky": false,
+  "isAwesome": false,
+  "likeNum": 3469,
+  "liked": false,
+  "commentNum": 0,
+  "questionFollowed": false,
+  "collected": false,
+  "collectionCount": 224,
+  "collectedAt": null,
+  "actionAt": null,
+  "commentList": [],
+  "answerList": [],
+  "answerNum": 0,
+  "answerUserNum": 0,
+  "deleted": false,
+  "createdAt": "2026-09-03T18:53:40",
+  "modified": "2026-09-03T18:53:40.532",
+  "sort": "1788432820532393099",
+  "url": null,
+  "mood": null,
+  "audited": 1,
+  "files": [],
+  "permissions": {
+    "viewPermission": 1,
+    "commentPermission": 2,
+    "viewStrategies": [
+      "LONG_WIN",
+      "LONG_WIN_S"
+    ]
+  },
+  "modifyAt": null,
+  "ramblingTagged": false,
+  "ramblingTags": [],
+  "toolKeys": [],
+  "communityTools": [],
+  "groupInfo": {
+    "groupId": 43,
+    "broker": "0008",
+    "groupName": "长赢同路人",
+    "avatarUrl": "https://asset2.qieman.com/images/53b93bb1-6ccb-437e-b6da-ff8760a141db.png",
+    "groupDesc": "专属于长赢投资者和E大的交流空间。慢慢买入便宜的指数基金，慢慢等待开花结果。",
+    "groupRule": "为保证阅读体验，小组暂时仅限组长和管理员可发布内容，各位成员可在内容下的评论交流～请务必遵守社区规范，文明理性发言哦😊",
+    "priority": 1,
+    "setupTime": "2025-10-13T13:57:24",
+    "isPrivate": false,
+    "pinned": false,
+    "canSetPin": false
+  },
+  "canView": true,
+  "canComment": false,
+  "canControlCommentVisibility": false,
+  "audioInfo": null
+}

@@ -1,0 +1,101 @@
+{
+  "id": 94717,
+  "userLevel": 2,
+  "userLabel": "长赢指数投资计划主理人",
+  "userBadgeWear": null,
+  "content": {
+    "title": "",
+    "contents": [
+      {
+        "contentType": 1,
+        "detail": "我其实特别想多分享一些自己的有效经验和干货给各位。（投资策略，投资逻辑，投资方案，不同品种的具体参数，不同市场的不同方式，技术指标等等）\n\n但是看到那些把我小组内容到处搬运还找各种角度喷我的黑子，我就没有动力了。\n\n我为什么要把自己的好东西分享给这些小可爱？\n\n让我想想，找到一个可以把这些分享给真正朋友的方式。\n\n各位放心，肯定不是收费会员。我不缺那几个钱。\n\n\n",
+        "embedProdList": []
+      }
+    ],
+    "intro": "我其实特别想多分享一些自己的有效经验和干货给各位。（投资策略",
+    "images": []
+  },
+  "contentVersion": 0,
+  "richContent": null,
+  "title": "",
+  "type": 1,
+  "questionId": null,
+  "question": null,
+  "topicId": null,
+  "topic": "",
+  "postTopic": null,
+  "isSticky": false,
+  "isAwesome": false,
+  "likeNum": 3445,
+  "liked": false,
+  "commentNum": 1,
+  "questionFollowed": false,
+  "collected": false,
+  "collectionCount": 244,
+  "collectedAt": null,
+  "actionAt": null,
+  "commentList": [
+    {
+      "id": 2535745,
+      "postId": 94717,
+      "articleId": null,
+      "broker": "0008",
+      "userLevel": 2,
+      "userBadgeWear": null,
+      "toCommentId": null,
+      "toReplyId": null,
+      "content": "识别混在群众中的坏人太难了！",
+      "images": null,
+      "audited": 1,
+      "createdAt": "2026-11-03T07:51:14",
+      "likeNum": null,
+      "liked": null,
+      "commentNum": null,
+      "children": null,
+      "pinned": false,
+      "authorEngaged": 0,
+      "heatScore": 31620
+    }
+  ],
+  "answerList": [],
+  "answerNum": 0,
+  "answerUserNum": 0,
+  "deleted": false,
+  "createdAt": "2026-11-03T07:43:15",
+  "modified": "2026-11-03T08:03:19.97",
+  "sort": "1793664199970784732",
+  "url": null,
+  "mood": null,
+  "audited": 1,
+  "files": [],
+  "permissions": {
+    "viewPermission": 1,
+    "commentPermission": 2,
+    "viewStrategies": [
+      "LONG_WIN",
+      "LONG_WIN_S"
+    ]
+  },
+  "modifyAt": "2026-11-03 08:03:19",
+  "ramblingTagged": false,
+  "ramblingTags": [],
+  "toolKeys": [],
+  "communityTools": [],
+  "groupInfo": {
+    "groupId": 43,
+    "broker": "0008",
+    "groupName": "长赢同路人",
+    "avatarUrl": "https://asset2.qieman.com/images/53b93bb1-6ccb-437e-b6da-ff8760a141db.png",
+    "groupDesc": "专属于长赢投资者和E大的交流空间。慢慢买入便宜的指数基金，慢慢等待开花结果。",
+    "groupRule": "为保证阅读体验，小组暂时仅限组长和管理员可发布内容，各位成员可在内容下的评论交流～请务必遵守社区规范，文明理性发言哦😊",
+    "priority": 1,
+    "setupTime": "2025-10-13T13:57:24",
+    "isPrivate": false,
+    "pinned": false,
+    "canSetPin": false
+  },
+  "canView": true,
+  "canComment": false,
+  "canControlCommentVisibility": false,
+  "audioInfo": null
+}

@@ -1,0 +1,105 @@
+{
+  "id": 92047,
+  "userLevel": 2,
+  "userLabel": "长赢指数投资计划主理人",
+  "userBadgeWear": null,
+  "content": {
+    "title": "",
+    "contents": [
+      {
+        "contentType": 1,
+        "detail": "世界上规模最大的ETF，是先锋基金的VOO，跟踪标普500指数，规模超过1万亿USD。\n\n第二名叫做IVV。是贝莱德发行的。跟踪标普500，规模9000亿USD。\n\n第三名叫做SPY。道富发行的。还是跟踪标普500，规模8000亿USD。\n\n第四名VTI，跟踪美国全市场。7000亿。\n\n第五名QQQ，跟踪纳斯达克。5000亿。\n\n只是这前五名，规模就接近4万亿USD，26万亿CNY。\n\n\n我不知道每个月只是定投标普500和纳斯达克的有多少国家多少人多少资金。至少我知道在我们这里，多少人想买而场外没额度，场内最高溢价超过30%。自己出去买的路也堵死了。\n\n我也不知道还有多少人拿着现金等待下跌，然后冲进去加仓。\n\n这种虹吸全球资金的市场，确实值得思考。怎么让全球资金来买，敢买，是一个问题。毕竟，我们的市场规模是全球第二（但是我们在全球基金中，只占比2.3%。排在全球第六）。\n\n我们这边规模最大的ETF是华泰柏瑞沪深300，规模1000亿CNY。美股规模最大的CN基金是贝莱德的MCHI，规模60亿USD。跟踪香港恒生的盈富基金是港股市场最大的，大概在1300-1500亿HKD。\n\n\n\n\n\n\n\n",
+        "embedProdList": []
+      }
+    ],
+    "images": [],
+    "intro": "世界上规模最大的ETF，是先锋基金的VOO，跟踪标普500指"
+  },
+  "contentVersion": 0,
+  "richContent": null,
+  "title": "",
+  "type": 1,
+  "questionId": null,
+  "question": null,
+  "topicId": null,
+  "topic": "",
+  "postTopic": null,
+  "isSticky": false,
+  "isAwesome": false,
+  "likeNum": 1448,
+  "liked": false,
+  "commentNum": 1,
+  "questionFollowed": false,
+  "collected": false,
+  "collectionCount": 481,
+  "collectedAt": null,
+  "actionAt": null,
+  "commentList": [
+    {
+      "id": 2458843,
+      "postId": 92047,
+      "articleId": null,
+      "broker": "0008",
+      "userLevel": 2,
+      "userBadgeWear": null,
+      "toCommentId": null,
+      "toReplyId": null,
+      "content": "其实我想了想，根本就不用吸引全球资金，我们自己的资金都不进来，何苦吸引全球资金。最大的ETF才150亿USD。",
+      "images": null,
+      "audited": 1,
+      "createdAt": "2026-10-15T22:32:30",
+      "likeNum": null,
+      "liked": null,
+      "commentNum": null,
+      "children": null,
+      "pinned": false,
+      "authorEngaged": 0,
+      "heatScore": 10230
+    }
+  ],
+  "answerList": [],
+  "answerNum": 0,
+  "answerUserNum": 0,
+  "deleted": false,
+  "createdAt": "2026-10-15T22:24:58",
+  "modified": "2026-10-15T22:32:30.897",
+  "sort": "1792074750897395958",
+  "url": null,
+  "mood": null,
+  "audited": 1,
+  "files": [],
+  "permissions": {
+    "viewPermission": 1,
+    "commentPermission": 2,
+    "viewStrategies": [
+      "LONG_WIN",
+      "LONG_WIN_S"
+    ]
+  },
+  "modifyAt": null,
+  "ramblingTagged": false,
+  "ramblingTags": [],
+  "toolKeys": [],
+  "communityTools": [],
+  "groupInfo": {
+    "groupId": 43,
+    "broker": "0008",
+    "groupName": "长赢同路人",
+    "avatarUrl": "https://asset2.qieman.com/images/53b93bb1-6ccb-437e-b6da-ff8760a141db.png",
+    "groupDesc": "专属于长赢投资者和E大的交流空间。慢慢买入便宜的指数基金，慢慢等待开花结果。",
+    "groupRule": "为保证阅读体验，小组暂时仅限组长和管理员可发布内容，各位成员可在内容下的评论交流～请务必遵守社区规范，文明理性发言哦😊",
+    "priority": 1,
+    "setupTime": "2025-10-13T13:57:24",
+    "isPrivate": false,
+    "pinned": false,
+    "canSetPin": false
+  },
+  "canView": true,
+  "canComment": false,
+  "canControlCommentVisibility": false,
+  "audioInfo": {
+    "audioUrl": "https://cdn-community.qieman.com/community-audio/post/92047/zhixiaoxia_15d40830.mp3",
+    "audioDuration": 95,
+    "voiceType": "zhixiaoxia"
+  }
+}

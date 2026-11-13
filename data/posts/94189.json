@@ -1,0 +1,79 @@
+{
+  "id": 94189,
+  "userLevel": 2,
+  "userLabel": "长赢指数投资计划主理人",
+  "userBadgeWear": null,
+  "content": {
+    "title": "",
+    "contents": [
+      {
+        "contentType": 1,
+        "detail": "今年，A股涨跌幅中位数是-20%。\n\n4337支股票下跌，占比82%。\n\n有1548支股票下跌超过30%。\n\n有635支股票下跌超过40%。\n\n185支股票腰斩。\n\n\n我们的几个红利基金平均上涨5%。\n\n沪深300跌幅10%。\n\nA500跌幅13%。\n\n中证500跌幅14%。\n\n医药跌幅3%。医疗跌幅1%。\n\n消费跌幅13%。\n\n\n\n你永远不会知道普通股民的账户是什么样的。因为很多人是涨起来买，跌下去卖。不停的折腾，会比上面的数字更可怕。\n\n",
+        "embedProdList": []
+      }
+    ],
+    "intro": "今年，A股涨跌幅中位数是-20%。\n\n4337支股票下跌，占",
+    "images": []
+  },
+  "contentVersion": 0,
+  "richContent": null,
+  "title": "",
+  "type": 1,
+  "questionId": null,
+  "question": null,
+  "topicId": null,
+  "topic": "",
+  "postTopic": null,
+  "isSticky": false,
+  "isAwesome": false,
+  "likeNum": 1366,
+  "liked": false,
+  "commentNum": 0,
+  "questionFollowed": false,
+  "collected": false,
+  "collectionCount": 168,
+  "collectedAt": null,
+  "actionAt": null,
+  "commentList": [],
+  "answerList": [],
+  "answerNum": 0,
+  "answerUserNum": 0,
+  "deleted": false,
+  "createdAt": "2026-10-30T14:15:41",
+  "modified": "2026-10-30T14:16:23.557",
+  "sort": "1793340983557567344",
+  "url": null,
+  "mood": null,
+  "audited": 1,
+  "files": [],
+  "permissions": {
+    "viewPermission": 1,
+    "commentPermission": 2,
+    "viewStrategies": [
+      "LONG_WIN",
+      "LONG_WIN_S"
+    ]
+  },
+  "modifyAt": "2026-10-30 14:16:23",
+  "ramblingTagged": false,
+  "ramblingTags": [],
+  "toolKeys": [],
+  "communityTools": [],
+  "groupInfo": {
+    "groupId": 43,
+    "broker": "0008",
+    "groupName": "长赢同路人",
+    "avatarUrl": "https://asset2.qieman.com/images/53b93bb1-6ccb-437e-b6da-ff8760a141db.png",
+    "groupDesc": "专属于长赢投资者和E大的交流空间。慢慢买入便宜的指数基金，慢慢等待开花结果。",
+    "groupRule": "为保证阅读体验，小组暂时仅限组长和管理员可发布内容，各位成员可在内容下的评论交流～请务必遵守社区规范，文明理性发言哦😊",
+    "priority": 1,
+    "setupTime": "2025-10-13T13:57:24",
+    "isPrivate": false,
+    "pinned": false,
+    "canSetPin": false
+  },
+  "canView": true,
+  "canComment": false,
+  "canControlCommentVisibility": false,
+  "audioInfo": null
+}

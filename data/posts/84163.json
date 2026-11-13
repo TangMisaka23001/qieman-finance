@@ -1,0 +1,83 @@
+{
+  "id": 84163,
+  "userLevel": 2,
+  "userLabel": "长赢指数投资计划主理人",
+  "userBadgeWear": null,
+  "content": {
+    "title": "",
+    "contents": [
+      {
+        "contentType": 1,
+        "detail": "给各位持仓值得长期持仓品种的朋友一个建议：\n\n不要像有些人一样“觉得”高了就大量减仓，等着跌回去做波段。\n\n用很小仓位做波段降低成本当然没问题，但不要把好不容易买到的低成本好品种轻易大量卖出。\n\n因为股票的特质是，你根本不知道它哪天会大涨。你随意卖出，很可能会错过最好的那几天。一旦错过，大多数收益就拿不到了。\n\n比如红利。以低波50举例。\n\n我在网上看到有人抱怨，说非常差，因为一年没涨。确实，在最近大涨后，它过去一年的收益率也只有4%。在几天前，持仓一年，它的收益率是负的。\n\n所以有人得出结论：这是个很差的品种。\n\n这种人就是在股市最常见的那种人：短视的人。\n\n再往前看：\n\n它的两年涨幅是23%；3年涨幅31%；5年涨幅74%。\n\n最大回撤十几个点。\n\n这还不好？这样的品种在这个市场，已经是“完美”了。\n\n\n再次提醒，好不容易以不贵价格买到的好品种，不要轻易大量减仓。拿着。因为你根本不可能预测哪天大涨。不！可！能！",
+        "embedProdList": []
+      }
+    ],
+    "intro": "给各位持仓值得长期持仓品种的朋友一个建议：\n\n不要像有些人一",
+    "images": []
+  },
+  "contentVersion": 0,
+  "richContent": null,
+  "title": "",
+  "type": 1,
+  "questionId": null,
+  "question": null,
+  "topicId": null,
+  "topic": "",
+  "postTopic": null,
+  "isSticky": false,
+  "isAwesome": false,
+  "likeNum": 2426,
+  "liked": false,
+  "commentNum": 0,
+  "questionFollowed": false,
+  "collected": false,
+  "collectionCount": 577,
+  "collectedAt": null,
+  "actionAt": null,
+  "commentList": [],
+  "answerList": [],
+  "answerNum": 0,
+  "answerUserNum": 0,
+  "deleted": false,
+  "createdAt": "2026-07-31T13:43:53",
+  "modified": "2026-07-31T13:56:19.835",
+  "sort": "1785477379835921217",
+  "url": null,
+  "mood": null,
+  "audited": 1,
+  "files": [],
+  "permissions": {
+    "viewPermission": 1,
+    "commentPermission": 2,
+    "viewStrategies": [
+      "LONG_WIN",
+      "LONG_WIN_S"
+    ]
+  },
+  "modifyAt": "2026-07-31 13:56:19",
+  "ramblingTagged": false,
+  "ramblingTags": [],
+  "toolKeys": [],
+  "communityTools": [],
+  "groupInfo": {
+    "groupId": 43,
+    "broker": "0008",
+    "groupName": "长赢同路人",
+    "avatarUrl": "https://asset2.qieman.com/images/53b93bb1-6ccb-437e-b6da-ff8760a141db.png",
+    "groupDesc": "专属于长赢投资者和E大的交流空间。慢慢买入便宜的指数基金，慢慢等待开花结果。",
+    "groupRule": "为保证阅读体验，小组暂时仅限组长和管理员可发布内容，各位成员可在内容下的评论交流～请务必遵守社区规范，文明理性发言哦😊",
+    "priority": 1,
+    "setupTime": "2025-10-13T13:57:24",
+    "isPrivate": false,
+    "pinned": false,
+    "canSetPin": false
+  },
+  "canView": true,
+  "canComment": false,
+  "canControlCommentVisibility": false,
+  "audioInfo": {
+    "audioUrl": "https://cdn-community.qieman.com/community-audio/post/84163/zhixiaoxia_8bf72341.mp3",
+    "audioDuration": 82,
+    "voiceType": "zhixiaoxia"
+  }
+}

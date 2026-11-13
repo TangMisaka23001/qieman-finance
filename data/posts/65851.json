@@ -1,0 +1,160 @@
+{
+  "id": 65851,
+  "userLevel": 2,
+  "userLabel": "长赢指数投资计划主理人",
+  "userBadgeWear": null,
+  "content": {
+    "title": "",
+    "contents": [
+      {
+        "contentType": 1,
+        "detail": "使用财务自由计算器已经一个月了。\n\n你也根据上个月资产变化和收入结余已经更新了净资产。\n\n看着下面不断变化的数字结果，有没有觉得很有意思。\n\n说说你的感受。",
+        "embedProdList": []
+      }
+    ],
+    "intro": "使用财务自由计算器已经一个月了。\n\n你也根据上个月资产变化和",
+    "images": []
+  },
+  "contentVersion": 0,
+  "richContent": null,
+  "title": "",
+  "type": 1,
+  "questionId": null,
+  "question": null,
+  "topicId": null,
+  "topic": "",
+  "postTopic": null,
+  "isSticky": false,
+  "isAwesome": false,
+  "likeNum": 961,
+  "liked": false,
+  "commentNum": 404,
+  "questionFollowed": false,
+  "collected": false,
+  "collectionCount": 306,
+  "collectedAt": null,
+  "actionAt": null,
+  "commentList": [
+    {
+      "id": 1273669,
+      "postId": 65851,
+      "articleId": null,
+      "broker": "0008",
+      "userLevel": 2,
+      "userBadgeWear": null,
+      "toCommentId": 1273477,
+      "toReplyId": null,
+      "content": "绝对不可以。你想想，我让你随便买，那我盈利的时候卖出，你可能亏损，你跟不跟卖？",
+      "images": null,
+      "audited": 1,
+      "createdAt": "2026-02-01T20:50:40",
+      "likeNum": null,
+      "liked": null,
+      "commentNum": null,
+      "children": null,
+      "pinned": false,
+      "authorEngaged": 0,
+      "heatScore": 8770
+    },
+    {
+      "id": 1273477,
+      "postId": 65851,
+      "articleId": null,
+      "broker": "0008",
+      "userLevel": 0,
+      "userBadgeWear": null,
+      "toCommentId": null,
+      "toReplyId": null,
+      "content": "能不能向且慢反馈增加一个功能啊？\n就是可以让用户自己设置，即使高于益达买入价格的0%到50%，也可以选择补仓\n把这一部分权利交给用户，而不是严格的设置必须低于。\n益达有些真的买到最低点，那岂不是后面根本没有机会补仓吗\n就是可以比益达少赚一点，但是也不能一点没有啊\n希望能看到这条评论吧",
+      "images": null,
+      "audited": 1,
+      "createdAt": "2026-02-01T19:15:25",
+      "likeNum": null,
+      "liked": null,
+      "commentNum": null,
+      "children": null,
+      "pinned": false,
+      "authorEngaged": 2,
+      "heatScore": 3650
+    },
+    {
+      "id": 1272979,
+      "postId": 65851,
+      "articleId": null,
+      "broker": "0008",
+      "userLevel": 0,
+      "userBadgeWear": null,
+      "toCommentId": null,
+      "toReplyId": null,
+      "content": "到了明年年初，是不是就要更新那个时候当年的年初资产和最新资产了，然后看到的会是从当年开始的往后的资产预测。\n那个时候今年的数据就没有了?也就是每年都是以当年作为起点开始的数据?",
+      "images": null,
+      "audited": 1,
+      "createdAt": "2026-02-01T16:55:12",
+      "likeNum": null,
+      "liked": null,
+      "commentNum": null,
+      "children": null,
+      "pinned": false,
+      "authorEngaged": 2,
+      "heatScore": 1110
+    }
+  ],
+  "answerList": [],
+  "answerNum": 0,
+  "answerUserNum": 0,
+  "deleted": false,
+  "createdAt": "2026-02-01T16:30:57",
+  "modified": "2026-03-25T22:23:19.281",
+  "sort": "1774448599281130629",
+  "url": null,
+  "mood": null,
+  "audited": 1,
+  "files": [],
+  "permissions": {
+    "viewPermission": 1,
+    "commentPermission": 1,
+    "viewStrategies": [
+      "LONG_WIN",
+      "LONG_WIN_S"
+    ]
+  },
+  "modifyAt": "2026-02-01 16:33:28",
+  "ramblingTagged": false,
+  "ramblingTags": [],
+  "toolKeys": [
+    "WITHDRAW_CALC"
+  ],
+  "communityTools": [
+    {
+      "key": "WITHDRAW_CALC",
+      "url": "https://qieman.com/content/tools/withdraw-calc",
+      "desc": "一分钟算清楚你的钱可以花多久",
+      "name": "提款计算器",
+      "coverUrl": "https://asset2.qieman.com/images/c5d3fd10-bc80-4b6d-ad24-d107f8f447ba.png",
+      "groupIds": [
+        43
+      ],
+      "toolCoverUrl": "https://asset2.qieman.com/images/c4ffd6d9-8514-48cc-b93c-0065c65676e6.png",
+      "darkToolCoverUrl": "https://asset2.qieman.com/images/ef6811fd-1e6d-4867-94e6-8ccffe07cfa5.png",
+      "disabledToolCoverUrl": "https://asset2.qieman.com/images/f796c4a6-7e4e-4377-a213-101b3f32af24.png",
+      "darkDisabledToolCoverUrl": "https://asset2.qieman.com/images/fb247443-6939-453a-99fe-1e74445f0d24.png"
+    }
+  ],
+  "groupInfo": {
+    "groupId": 43,
+    "broker": "0008",
+    "groupName": "长赢同路人",
+    "avatarUrl": "https://asset2.qieman.com/images/53b93bb1-6ccb-437e-b6da-ff8760a141db.png",
+    "groupDesc": "专属于长赢投资者和E大的交流空间。慢慢买入便宜的指数基金，慢慢等待开花结果。",
+    "groupRule": "为保证阅读体验，小组暂时仅限组长和管理员可发布内容，各位成员可在内容下的评论交流～请务必遵守社区规范，文明理性发言哦😊",
+    "priority": 1,
+    "setupTime": "2025-10-13T13:57:24",
+    "isPrivate": false,
+    "pinned": false,
+    "canSetPin": false
+  },
+  "canView": true,
+  "canComment": true,
+  "canControlCommentVisibility": false,
+  "audioInfo": null
+}

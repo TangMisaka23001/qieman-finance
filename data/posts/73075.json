@@ -1,0 +1,153 @@
+{
+  "id": 73075,
+  "userLevel": 2,
+  "userLabel": "长赢指数投资计划主理人",
+  "userBadgeWear": null,
+  "content": {
+    "title": "",
+    "contents": [
+      {
+        "contentType": 1,
+        "detail": "有一件事大家是否想过。\n\n你辛辛苦苦工作了10年，省吃俭用，攒了30万。\n\n这30万来之不易对不对。非常难。\n\n那么，为什么有人会觉得，只要把钱放入股市，就能轻轻松松的再赚30万？\n\n大多数人在某些市场其实一辈子也赚不到钱。不停的供养，不停的输血。\n\n但是，当然不代表不能用30万赚30万。只是它一定不轻松。\n\n不是说会有多么累，不需要你干体力活。而是说即使你做了正确的事情，低买高卖，那也一定在某些时候非常煎熬。因为你买了未必会马上涨，卖了未必会马上跌。\n\n何况，越不涨，看空的人越多。你上网一看，大家都说完了。你也变得不坚定，犹犹豫豫是否要卖掉。\n\n涨起来也一样。你卖了以后发现还在涨，大家都说会一直涨。你又会痛苦——是不是要更高价格买回来？\n\n这种不轻松，主要是心理问题。（在解决了投资体系问题之后）\n\n没那么容易的。坚持自己，面对困境的时候依然有信仰，有信心，并不是每个人都能做到的。真正能做到的，才能在股市中赚到钱。\n\n如果工作赚钱很难，那么股市赚钱也不会简单。否则就没有人工作了，对吗。\n\n在困难的时候，不要放弃信仰。",
+        "embedProdList": []
+      }
+    ],
+    "intro": "有一件事大家是否想过。\n\n你辛辛苦苦工作了10年，省吃俭用，",
+    "images": []
+  },
+  "contentVersion": 0,
+  "richContent": null,
+  "title": "",
+  "type": 1,
+  "questionId": null,
+  "question": null,
+  "topicId": null,
+  "topic": "",
+  "postTopic": null,
+  "isSticky": false,
+  "isAwesome": false,
+  "likeNum": 2031,
+  "liked": false,
+  "commentNum": 498,
+  "questionFollowed": false,
+  "collected": false,
+  "collectionCount": 309,
+  "collectedAt": null,
+  "actionAt": null,
+  "commentList": [
+    {
+      "id": 1921579,
+      "postId": 73075,
+      "articleId": null,
+      "broker": "0008",
+      "userLevel": 0,
+      "userBadgeWear": null,
+      "toCommentId": null,
+      "toReplyId": null,
+      "content": "今天看到一篇大V的文章，观点是医药板块不适合作为散户的卫星资产。看完很开心，因为不看好的声音越多，说明黎明越接近了🫶",
+      "images": null,
+      "audited": 1,
+      "createdAt": "2026-04-10T11:02:47",
+      "likeNum": null,
+      "liked": null,
+      "commentNum": null,
+      "children": null,
+      "pinned": false,
+      "authorEngaged": 0,
+      "heatScore": 5070
+    },
+    {
+      "id": 1920775,
+      "postId": 73075,
+      "articleId": null,
+      "broker": "0008",
+      "userLevel": 0,
+      "userBadgeWear": {
+        "id": 53623,
+        "icon": "https://asset2.qieman.com/images/bd9834d8-6df4-413c-adc4-358467be5856.png"
+      },
+      "toCommentId": null,
+      "toReplyId": null,
+      "content": "波段摇起来，老大，我们坐好了，请发车",
+      "images": null,
+      "audited": 1,
+      "createdAt": "2026-04-10T10:53:06",
+      "likeNum": null,
+      "liked": null,
+      "commentNum": null,
+      "children": null,
+      "pinned": false,
+      "authorEngaged": 0,
+      "heatScore": 3300
+    },
+    {
+      "id": 1920619,
+      "postId": 73075,
+      "articleId": null,
+      "broker": "0008",
+      "userLevel": 0,
+      "userBadgeWear": {
+        "id": 457773859,
+        "icon": "https://asset2.qieman.com/images/ce029617-9194-40a4-973d-544e29a2ec52.png"
+      },
+      "toCommentId": null,
+      "toReplyId": null,
+      "content": "昨天在机场看到百达斐丽的广告，没有人真正拥有百达斐丽，只不过为下一代保管而已，我的仓位也如是",
+      "images": null,
+      "audited": 1,
+      "createdAt": "2026-04-10T10:51:48",
+      "likeNum": null,
+      "liked": null,
+      "commentNum": null,
+      "children": null,
+      "pinned": false,
+      "authorEngaged": 0,
+      "heatScore": 2420
+    }
+  ],
+  "answerList": [],
+  "answerNum": 0,
+  "answerUserNum": 0,
+  "deleted": false,
+  "createdAt": "2026-04-10T10:47:59",
+  "modified": "2026-05-14T19:13:21.477",
+  "sort": "1778757201477268803",
+  "url": null,
+  "mood": null,
+  "audited": 1,
+  "files": [],
+  "permissions": {
+    "viewPermission": 1,
+    "commentPermission": 1,
+    "viewStrategies": [
+      "LONG_WIN",
+      "LONG_WIN_S"
+    ]
+  },
+  "modifyAt": "2026-04-10 10:50:16",
+  "ramblingTagged": false,
+  "ramblingTags": [],
+  "toolKeys": [],
+  "communityTools": [],
+  "groupInfo": {
+    "groupId": 43,
+    "broker": "0008",
+    "groupName": "长赢同路人",
+    "avatarUrl": "https://asset2.qieman.com/images/53b93bb1-6ccb-437e-b6da-ff8760a141db.png",
+    "groupDesc": "专属于长赢投资者和E大的交流空间。慢慢买入便宜的指数基金，慢慢等待开花结果。",
+    "groupRule": "为保证阅读体验，小组暂时仅限组长和管理员可发布内容，各位成员可在内容下的评论交流～请务必遵守社区规范，文明理性发言哦😊",
+    "priority": 1,
+    "setupTime": "2025-10-13T13:57:24",
+    "isPrivate": false,
+    "pinned": false,
+    "canSetPin": false
+  },
+  "canView": true,
+  "canComment": true,
+  "canControlCommentVisibility": false,
+  "audioInfo": {
+    "audioUrl": "https://cdn-community.qieman.com/community-audio/post/73075/zhixiaoxia_44a8155b.mp3",
+    "audioDuration": 91,
+    "voiceType": "zhixiaoxia"
+  }
+}

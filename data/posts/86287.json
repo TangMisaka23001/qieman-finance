@@ -1,0 +1,101 @@
+{
+  "id": 86287,
+  "userLevel": 2,
+  "userLabel": "长赢指数投资计划主理人",
+  "userBadgeWear": null,
+  "content": {
+    "title": "",
+    "contents": [
+      {
+        "contentType": 1,
+        "detail": "再提示一下：\n\n在我的认知里，任何不死的品种，都有做网格波段的空间。\n\n最好的就是那些长期不涨，但是有足够波动，又非常安全的品种。\n\n各位做投资也好，做任何事情也好，请善于把自己的各种认知在脑子里把它们交叉起来。要思考，怎么把现有的策略，与现有的品种结合起来。\n\n一个品种只有波动，几年不涨，那么有没有机会吃波动？思路应该是这样的。而不是太讨厌了怎么不涨，跌了好难受，涨了也好难受。\n\n一个建议。",
+        "embedProdList": []
+      }
+    ],
+    "intro": "再提示一下：\n\n在我的认知里，任何不死的品种，都有做网格波段",
+    "images": []
+  },
+  "contentVersion": 0,
+  "richContent": null,
+  "title": "",
+  "type": 1,
+  "questionId": null,
+  "question": null,
+  "topicId": null,
+  "topic": "",
+  "postTopic": null,
+  "isSticky": false,
+  "isAwesome": false,
+  "likeNum": 2136,
+  "liked": false,
+  "commentNum": 1,
+  "questionFollowed": false,
+  "collected": false,
+  "collectionCount": 535,
+  "collectedAt": null,
+  "actionAt": null,
+  "commentList": [
+    {
+      "id": 2325415,
+      "postId": 86287,
+      "articleId": null,
+      "broker": "0008",
+      "userLevel": 2,
+      "userBadgeWear": null,
+      "toCommentId": null,
+      "toReplyId": null,
+      "content": "我们的计划有很多限制，无法做所有操作。甚至有些话和品种我都不能说清楚。请各位结合自己的情况认真考虑。",
+      "images": null,
+      "audited": 1,
+      "createdAt": "2026-08-20T09:30:17",
+      "likeNum": null,
+      "liked": null,
+      "commentNum": null,
+      "children": null,
+      "pinned": false,
+      "authorEngaged": 0,
+      "heatScore": 10950
+    }
+  ],
+  "answerList": [],
+  "answerNum": 0,
+  "answerUserNum": 0,
+  "deleted": false,
+  "createdAt": "2026-08-20T09:24:04",
+  "modified": "2026-08-20T09:30:17.106",
+  "sort": "1787189417106275949",
+  "url": null,
+  "mood": null,
+  "audited": 1,
+  "files": [],
+  "permissions": {
+    "viewPermission": 1,
+    "commentPermission": 2,
+    "viewStrategies": [
+      "LONG_WIN",
+      "LONG_WIN_S"
+    ]
+  },
+  "modifyAt": "2026-08-20 09:25:14",
+  "ramblingTagged": false,
+  "ramblingTags": [],
+  "toolKeys": [],
+  "communityTools": [],
+  "groupInfo": {
+    "groupId": 43,
+    "broker": "0008",
+    "groupName": "长赢同路人",
+    "avatarUrl": "https://asset2.qieman.com/images/53b93bb1-6ccb-437e-b6da-ff8760a141db.png",
+    "groupDesc": "专属于长赢投资者和E大的交流空间。慢慢买入便宜的指数基金，慢慢等待开花结果。",
+    "groupRule": "为保证阅读体验，小组暂时仅限组长和管理员可发布内容，各位成员可在内容下的评论交流～请务必遵守社区规范，文明理性发言哦😊",
+    "priority": 1,
+    "setupTime": "2025-10-13T13:57:24",
+    "isPrivate": false,
+    "pinned": false,
+    "canSetPin": false
+  },
+  "canView": true,
+  "canComment": false,
+  "canControlCommentVisibility": false,
+  "audioInfo": null
+}

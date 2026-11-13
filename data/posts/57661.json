@@ -1,0 +1,156 @@
+{
+  "id": 57661,
+  "userLevel": 2,
+  "userLabel": "长赢指数投资计划主理人",
+  "userBadgeWear": null,
+  "content": {
+    "title": "",
+    "contents": [
+      {
+        "contentType": 1,
+        "detail": "我们的红利基金，第一次买入是2016年12月。\n\n太可怕了，9年了。\n\n最后一次买入是2020年。也是5年过去了。\n\n2016年那时候，全市场也没几只红利基金。不像现在，一抓一大把，毕竟这几年红利业绩好，基金公司积极布局。\n\n众所周知，不出意外，下周两个计划就会时隔5年后再次买入红利基金。不是因为红利有多么便宜，而是因为两个计划一路卖出，仓位腾出来了，可以换入相对不贵的红利了。\n\n富国红利给我们带来了60%左右的收益，我不知道各位是否觉得满意，我自己还是挺感激的。虽然这几年它不是最好的红利基金，但也算是对得起我们的持有。\n\n然而时代不同了。几年过去，我考虑买别的红利品种了。从各方面讲，富国红利已经没有太多优势了。\n\n各位不妨预测一下，我会买哪一只？依然是中证红利？还是中证红利低波？是低波50还是100？又或者是港股红利低波？\n\n\n",
+        "embedProdList": []
+      },
+      {
+        "contentType": 2,
+        "detail": "https://cdn-community.qieman.com/03F36211-F315-4AAC-AD5F-733CD75900D8.png"
+      }
+    ],
+    "images": [
+      "https://cdn-community.qieman.com/03F36211-F315-4AAC-AD5F-733CD75900D8.png"
+    ],
+    "intro": "我们的红利基金，第一次买入是2016年12月。\n\n太可怕了，"
+  },
+  "contentVersion": 0,
+  "richContent": null,
+  "title": "",
+  "type": 1,
+  "questionId": null,
+  "question": null,
+  "topicId": null,
+  "topic": "",
+  "postTopic": null,
+  "isSticky": false,
+  "isAwesome": false,
+  "likeNum": 1065,
+  "liked": false,
+  "commentNum": 636,
+  "questionFollowed": false,
+  "collected": false,
+  "collectionCount": 219,
+  "collectedAt": null,
+  "actionAt": null,
+  "commentList": [
+    {
+      "id": 654217,
+      "postId": 57661,
+      "articleId": null,
+      "broker": "0008",
+      "userLevel": 0,
+      "userBadgeWear": null,
+      "toCommentId": 652867,
+      "toReplyId": 653287,
+      "content": "也是推动了整个A股市场在发展，想起E大当时要用上证180+中证100 的组合来达到合适持仓，现在选择面真的多了，对普通投资者也更友好了（费率）。这一周以来我个人已经开始买入中证红利+上证红利+红利低波，一方面是这一年多跟车卖出获得不少现金，另一方面，是因为这次周期结束大概率要开始依靠红利收入了，从5年期起，红利再投（对应红利全收益），可以获取的收益，大部分能覆盖生活支出了。",
+      "images": null,
+      "audited": 1,
+      "createdAt": "2025-12-12T17:00:17",
+      "likeNum": null,
+      "liked": null,
+      "commentNum": null,
+      "children": null,
+      "pinned": false,
+      "authorEngaged": 2,
+      "heatScore": 2070
+    },
+    {
+      "id": 653899,
+      "postId": 57661,
+      "articleId": null,
+      "broker": "0008",
+      "userLevel": 0,
+      "userBadgeWear": null,
+      "toCommentId": null,
+      "toReplyId": null,
+      "content": "E 大，红利是否也可以做波段呢？感觉 A 股长拿的都会有很大的回撤",
+      "images": null,
+      "audited": 1,
+      "createdAt": "2025-12-12T16:43:25",
+      "likeNum": null,
+      "liked": null,
+      "commentNum": null,
+      "children": null,
+      "pinned": false,
+      "authorEngaged": 2,
+      "heatScore": 2110
+    },
+    {
+      "id": 653371,
+      "postId": 57661,
+      "articleId": null,
+      "broker": "0008",
+      "userLevel": 0,
+      "userBadgeWear": {
+        "id": 918486295,
+        "icon": "https://asset2.qieman.com/images/ce029617-9194-40a4-973d-544e29a2ec52.png"
+      },
+      "toCommentId": 653311,
+      "toReplyId": null,
+      "content": "啊 看到老大的回复 那就去掉易方达",
+      "images": null,
+      "audited": 1,
+      "createdAt": "2025-12-12T16:28:35",
+      "likeNum": null,
+      "liked": null,
+      "commentNum": null,
+      "children": null,
+      "pinned": false,
+      "authorEngaged": 2,
+      "heatScore": 160
+    }
+  ],
+  "answerList": [],
+  "answerNum": 0,
+  "answerUserNum": 0,
+  "deleted": false,
+  "createdAt": "2025-12-12T16:19:33",
+  "modified": "2026-01-20T11:33:24.466",
+  "sort": "1768880004466663663",
+  "url": null,
+  "mood": null,
+  "audited": 1,
+  "files": [],
+  "permissions": {
+    "viewPermission": 1,
+    "commentPermission": 1,
+    "viewStrategies": [
+      "LONG_WIN",
+      "LONG_WIN_S"
+    ]
+  },
+  "modifyAt": null,
+  "ramblingTagged": false,
+  "ramblingTags": [],
+  "toolKeys": null,
+  "communityTools": [],
+  "groupInfo": {
+    "groupId": 43,
+    "broker": "0008",
+    "groupName": "长赢同路人",
+    "avatarUrl": "https://asset2.qieman.com/images/53b93bb1-6ccb-437e-b6da-ff8760a141db.png",
+    "groupDesc": "专属于长赢投资者和E大的交流空间。慢慢买入便宜的指数基金，慢慢等待开花结果。",
+    "groupRule": "为保证阅读体验，小组暂时仅限组长和管理员可发布内容，各位成员可在内容下的评论交流～请务必遵守社区规范，文明理性发言哦😊",
+    "priority": 1,
+    "setupTime": "2025-10-13T13:57:24",
+    "isPrivate": false,
+    "pinned": false,
+    "canSetPin": false
+  },
+  "canView": true,
+  "canComment": true,
+  "canControlCommentVisibility": false,
+  "audioInfo": {
+    "audioUrl": "https://cdn-community.qieman.com/community-audio/post/57661/zhixiaoxia_aea35c15.mp3",
+    "audioDuration": 73,
+    "voiceType": "zhixiaoxia"
+  }
+}

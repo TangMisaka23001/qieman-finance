@@ -1,0 +1,150 @@
+{
+  "id": 73747,
+  "userLevel": 2,
+  "userLabel": "长赢指数投资计划主理人",
+  "userBadgeWear": null,
+  "content": {
+    "title": "",
+    "contents": [
+      {
+        "contentType": 1,
+        "detail": "今天8点起来就继续回测数据和策略，目前已经回测几十万条了。\n\n今年关门以后，各方面都跟以前不一样了，越来越感觉这是非常确定的。\n\n另外，千万别说辛苦，一点点都不辛苦。做自己喜欢的事情，看着世界越来越清晰，真相逐渐浮现的时候，真的是太快乐开心了。\n\n未来的投资计划真的会改变很多。",
+        "embedProdList": []
+      }
+    ],
+    "intro": "今天8点起来就继续回测数据和策略，目前已经回测几十万条了。\n",
+    "images": [
+      "https://cdn-community.qieman.com/489D6196-20A3-41D5-964D-5CB2A5A3585A.png"
+    ]
+  },
+  "contentVersion": 0,
+  "richContent": null,
+  "title": "",
+  "type": 1,
+  "questionId": null,
+  "question": null,
+  "topicId": null,
+  "topic": "",
+  "postTopic": null,
+  "isSticky": false,
+  "isAwesome": false,
+  "likeNum": 2124,
+  "liked": false,
+  "commentNum": 699,
+  "questionFollowed": false,
+  "collected": false,
+  "collectionCount": 132,
+  "collectedAt": null,
+  "actionAt": null,
+  "commentList": [
+    {
+      "id": 1967875,
+      "postId": 73747,
+      "articleId": null,
+      "broker": "0008",
+      "userLevel": 0,
+      "userBadgeWear": null,
+      "toCommentId": null,
+      "toReplyId": null,
+      "content": "我让ai把e大的微博整理成册来看",
+      "images": [
+        "https://cdn-community.qieman.com/C9BA7E9B-7C52-4F07-9DD0-3E4E898F2294.png?x-oss-process=image/watermark,text_5LiU5oWiLWp0,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_46,g_se,x_10,y_10,t_50,shadow_50"
+      ],
+      "audited": 1,
+      "createdAt": "2026-04-18T18:34:54",
+      "likeNum": null,
+      "liked": null,
+      "commentNum": null,
+      "children": null,
+      "pinned": false,
+      "authorEngaged": 0,
+      "heatScore": 2680
+    },
+    {
+      "id": 1967221,
+      "postId": 73747,
+      "articleId": null,
+      "broker": "0008",
+      "userLevel": 0,
+      "userBadgeWear": null,
+      "toCommentId": null,
+      "toReplyId": null,
+      "content": "最近能感受到E大是开心的，开心最重要啦\n\n今天来爬山啦，也很开心，美丽的雪山送给E大及各位伙伴",
+      "images": [
+        "https://cdn-community.qieman.com/A706B108-6F81-4B09-9263-349745D49A92.jpg?x-oss-process=image/watermark,text_5LiU5oWiLUXotbflr4zotbfmnaU,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_60,g_se,x_10,y_10,t_50,shadow_50",
+        "https://cdn-community.qieman.com/29E38634-11B2-46BA-BCDA-7329950CAC1D.jpg?x-oss-process=image/watermark,text_5LiU5oWiLUXotbflr4zotbfmnaU,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_60,g_se,x_10,y_10,t_50,shadow_50"
+      ],
+      "audited": 1,
+      "createdAt": "2026-04-18T16:39:20",
+      "likeNum": null,
+      "liked": null,
+      "commentNum": null,
+      "children": null,
+      "pinned": false,
+      "authorEngaged": 0,
+      "heatScore": 6460
+    },
+    {
+      "id": 1966837,
+      "postId": 73747,
+      "articleId": null,
+      "broker": "0008",
+      "userLevel": 2,
+      "userBadgeWear": null,
+      "toCommentId": null,
+      "toReplyId": null,
+      "content": "AI真的是可能会改变世界的一个工具。但目前为止，它只是工具。它可以帮你做很多数学分析的具体工作。但创意和想法要由你来提供。恐怕未来很多工具人要失去工作了。",
+      "images": null,
+      "audited": 1,
+      "createdAt": "2026-04-18T16:20:10",
+      "likeNum": null,
+      "liked": null,
+      "commentNum": null,
+      "children": null,
+      "pinned": false,
+      "authorEngaged": 0,
+      "heatScore": 14870
+    }
+  ],
+  "answerList": [],
+  "answerNum": 0,
+  "answerUserNum": 0,
+  "deleted": false,
+  "createdAt": "2026-04-18T16:04:30",
+  "modified": "2026-06-22T15:03:20.382",
+  "sort": "1782111800382578488",
+  "url": null,
+  "mood": null,
+  "audited": 1,
+  "files": [],
+  "permissions": {
+    "viewPermission": 1,
+    "commentPermission": 1,
+    "viewStrategies": [
+      "LONG_WIN",
+      "LONG_WIN_S"
+    ]
+  },
+  "modifyAt": "2026-04-18 16:06:53",
+  "ramblingTagged": false,
+  "ramblingTags": [],
+  "toolKeys": [],
+  "communityTools": [],
+  "groupInfo": {
+    "groupId": 43,
+    "broker": "0008",
+    "groupName": "长赢同路人",
+    "avatarUrl": "https://asset2.qieman.com/images/53b93bb1-6ccb-437e-b6da-ff8760a141db.png",
+    "groupDesc": "专属于长赢投资者和E大的交流空间。慢慢买入便宜的指数基金，慢慢等待开花结果。",
+    "groupRule": "为保证阅读体验，小组暂时仅限组长和管理员可发布内容，各位成员可在内容下的评论交流～请务必遵守社区规范，文明理性发言哦😊",
+    "priority": 1,
+    "setupTime": "2025-10-13T13:57:24",
+    "isPrivate": false,
+    "pinned": false,
+    "canSetPin": false
+  },
+  "canView": true,
+  "canComment": true,
+  "canControlCommentVisibility": false,
+  "audioInfo": null
+}

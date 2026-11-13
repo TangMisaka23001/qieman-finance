@@ -1,0 +1,152 @@
+{
+  "id": 72007,
+  "userLevel": 2,
+  "userLabel": "长赢指数投资计划主理人",
+  "userBadgeWear": null,
+  "content": {
+    "title": "",
+    "contents": [
+      {
+        "contentType": 1,
+        "detail": "刚才那张图，看评论，很多朋友的想法可不是我想要的反应。\n\n有朋友问，我想表达什么。是看多还是看空了。\n\n我的回答：\n\n我什么都没有想表达。我只是把客观数据贴给你们，每位朋友可以观察、思考，结合历史数据制定自己的交易策略。\n\n有朋友说，看起来好危险，曾经跌过80%，我要清仓了。\n\n我的回答：\n\n跌80%是客观事实，你的持仓，难道是因为你以前不知道所以持有的吗？看起来是这样。那只能说，以前不理性，现在也不理性。\n\n\n\n再说一次，我什么都没有想表达，我希望大家结合数据制定自己的交易策略。\n\n其次，历史曾经大跌80%，但也有跌40%、20%，甚至10%就反弹新高的情况。你需要制定的策略，是能够在所有情况都可能发生时，都不是最差的选择。\n\n投资要理性，要收集信息，要分析信息，要制定策略，要执行策略。\n\n当然，不只是投资，几乎所有事情都是如此。可惜，理性的人其实并不多。听风就是雨，道听途说，容易被片面的事实所蛊惑，才是大多数人的状态。各位一定要训练自己，更加理性才好。\n\n\n\n\n\n\n\n\n\n\n",
+        "embedProdList": []
+      }
+    ],
+    "images": [],
+    "intro": "刚才那张图，看评论，很多朋友的想法可不是我想要的反应。\n\n有"
+  },
+  "contentVersion": 0,
+  "richContent": null,
+  "title": "",
+  "type": 1,
+  "questionId": null,
+  "question": null,
+  "topicId": null,
+  "topic": "",
+  "postTopic": null,
+  "isSticky": false,
+  "isAwesome": false,
+  "likeNum": 1286,
+  "liked": false,
+  "commentNum": 261,
+  "questionFollowed": false,
+  "collected": false,
+  "collectionCount": 244,
+  "collectedAt": null,
+  "actionAt": null,
+  "commentList": [
+    {
+      "id": 1850629,
+      "postId": 72007,
+      "articleId": null,
+      "broker": "0008",
+      "userLevel": 0,
+      "userBadgeWear": null,
+      "toCommentId": null,
+      "toReplyId": null,
+      "content": "现在标普500和纳斯达克100基金都限购严重，计划用长期资金定投加个1-2%",
+      "images": null,
+      "audited": 1,
+      "createdAt": "2026-03-28T11:49:56",
+      "likeNum": null,
+      "liked": null,
+      "commentNum": null,
+      "children": null,
+      "pinned": false,
+      "authorEngaged": 2,
+      "heatScore": 960
+    },
+    {
+      "id": 1850263,
+      "postId": 72007,
+      "articleId": null,
+      "broker": "0008",
+      "userLevel": 2,
+      "userBadgeWear": null,
+      "toCommentId": 1850041,
+      "toReplyId": null,
+      "content": "其实这个图一定程度就是片面信息。拉到100年当然是这样，但是在某些特定的10年、20年、30年，会完全不同。而在那10-20年正好投资正好退休要用钱的人，则会是另一种感受。可以这么说，超长期来看，一定是向上。但有可能甚至在10-20年都在原地踏步。这些信息都知道理解了，才能更加理性的制定计划。也才会在黑天鹅发生的时候不至于慌乱做错事。",
+      "images": null,
+      "audited": 1,
+      "createdAt": "2026-03-28T11:27:34",
+      "likeNum": null,
+      "liked": null,
+      "commentNum": null,
+      "children": null,
+      "pinned": false,
+      "authorEngaged": 0,
+      "heatScore": 9030
+    },
+    {
+      "id": 1850041,
+      "postId": 72007,
+      "articleId": null,
+      "broker": "0008",
+      "userLevel": 0,
+      "userBadgeWear": {
+        "id": 2212253509,
+        "icon": "https://asset2.qieman.com/images/28c24c22-49f9-46bf-b154-b791dd564ab6.png"
+      },
+      "toCommentId": null,
+      "toReplyId": null,
+      "content": "共勉👍🏻\n在有效的市场下跌即是机会，控制仓位和计划，时间是最好的波动修复器，拉长时间来看有效市场都会给出回报",
+      "images": [
+        "https://cdn-community.qieman.com/2FE572E1-D7F9-47B7-8CCD-ED62861F751F.jpeg?x-oss-process=image/watermark,text_5LiU5oWiLUZpbmFsZmFudGFzeQ,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_22,g_se,x_10,y_10,t_50,shadow_50"
+      ],
+      "audited": 1,
+      "createdAt": "2026-03-28T11:23:08",
+      "likeNum": null,
+      "liked": null,
+      "commentNum": null,
+      "children": null,
+      "pinned": false,
+      "authorEngaged": 2,
+      "heatScore": 2230
+    }
+  ],
+  "answerList": [],
+  "answerNum": 0,
+  "answerUserNum": 0,
+  "deleted": false,
+  "createdAt": "2026-03-28T11:14:03",
+  "modified": "2026-04-21T15:03:24.059",
+  "sort": "1776755004059443364",
+  "url": null,
+  "mood": null,
+  "audited": 1,
+  "files": [],
+  "permissions": {
+    "viewPermission": 1,
+    "commentPermission": 1,
+    "viewStrategies": [
+      "LONG_WIN",
+      "LONG_WIN_S"
+    ]
+  },
+  "modifyAt": null,
+  "ramblingTagged": false,
+  "ramblingTags": [],
+  "toolKeys": [],
+  "communityTools": [],
+  "groupInfo": {
+    "groupId": 43,
+    "broker": "0008",
+    "groupName": "长赢同路人",
+    "avatarUrl": "https://asset2.qieman.com/images/53b93bb1-6ccb-437e-b6da-ff8760a141db.png",
+    "groupDesc": "专属于长赢投资者和E大的交流空间。慢慢买入便宜的指数基金，慢慢等待开花结果。",
+    "groupRule": "为保证阅读体验，小组暂时仅限组长和管理员可发布内容，各位成员可在内容下的评论交流～请务必遵守社区规范，文明理性发言哦😊",
+    "priority": 1,
+    "setupTime": "2025-10-13T13:57:24",
+    "isPrivate": false,
+    "pinned": false,
+    "canSetPin": false
+  },
+  "canView": true,
+  "canComment": true,
+  "canControlCommentVisibility": false,
+  "audioInfo": {
+    "audioUrl": "https://cdn-community.qieman.com/community-audio/post/72007/zhixiaoxia_5235b803.mp3",
+    "audioDuration": 87,
+    "voiceType": "zhixiaoxia"
+  }
+}

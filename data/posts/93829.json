@@ -1,0 +1,112 @@
+{
+  "id": 93829,
+  "userLevel": 2,
+  "userLabel": "长赢指数投资计划主理人",
+  "userBadgeWear": null,
+  "content": {
+    "title": "",
+    "contents": [
+      {
+        "contentType": 1,
+        "detail": "今天科创50再创调整以来新低。\n\n回看6.18这一篇，终究是没让我失望。\n\n那一天距离115倍的超级大顶，还有12天。",
+        "embedProdList": []
+      },
+      {
+        "contentType": 2,
+        "detail": "https://cdn-community.qieman.com/DDAAF11D-2B5D-4CD2-ADA8-EC2C4AEF7CFE.png"
+      },
+      {
+        "contentType": 2,
+        "detail": "https://cdn-community.qieman.com/4767F5C8-C60A-41BC-A927-ABEDA67AE485.png"
+      }
+    ],
+    "images": [
+      "https://cdn-community.qieman.com/DDAAF11D-2B5D-4CD2-ADA8-EC2C4AEF7CFE.png",
+      "https://cdn-community.qieman.com/4767F5C8-C60A-41BC-A927-ABEDA67AE485.png"
+    ],
+    "intro": "今天科创50再创调整以来新低。\n\n回看6.18这一篇，终究是"
+  },
+  "contentVersion": 0,
+  "richContent": null,
+  "title": "",
+  "type": 1,
+  "questionId": null,
+  "question": null,
+  "topicId": null,
+  "topic": "",
+  "postTopic": null,
+  "isSticky": false,
+  "isAwesome": false,
+  "likeNum": 1212,
+  "liked": false,
+  "commentNum": 1,
+  "questionFollowed": false,
+  "collected": false,
+  "collectionCount": 121,
+  "collectedAt": null,
+  "actionAt": null,
+  "commentList": [
+    {
+      "id": 2512729,
+      "postId": 93829,
+      "articleId": null,
+      "broker": "0008",
+      "userLevel": 2,
+      "userBadgeWear": null,
+      "toCommentId": null,
+      "toReplyId": null,
+      "content": "A股股民确实疯狂。在最后的12天，科创50又涨了35%。",
+      "images": null,
+      "audited": 1,
+      "createdAt": "2026-10-29T10:21:01",
+      "likeNum": null,
+      "liked": null,
+      "commentNum": null,
+      "children": null,
+      "pinned": false,
+      "authorEngaged": 0,
+      "heatScore": 6150
+    }
+  ],
+  "answerList": [],
+  "answerNum": 0,
+  "answerUserNum": 0,
+  "deleted": false,
+  "createdAt": "2026-10-29T10:16:44",
+  "modified": "2026-10-29T10:21:01.278",
+  "sort": "1793240461278481351",
+  "url": null,
+  "mood": null,
+  "audited": 1,
+  "files": [],
+  "permissions": {
+    "viewPermission": 1,
+    "commentPermission": 2,
+    "viewStrategies": [
+      "LONG_WIN",
+      "LONG_WIN_S"
+    ]
+  },
+  "modifyAt": null,
+  "ramblingTagged": false,
+  "ramblingTags": [],
+  "toolKeys": [],
+  "communityTools": [],
+  "groupInfo": {
+    "groupId": 43,
+    "broker": "0008",
+    "groupName": "长赢同路人",
+    "avatarUrl": "https://asset2.qieman.com/images/53b93bb1-6ccb-437e-b6da-ff8760a141db.png",
+    "groupDesc": "专属于长赢投资者和E大的交流空间。慢慢买入便宜的指数基金，慢慢等待开花结果。",
+    "groupRule": "为保证阅读体验，小组暂时仅限组长和管理员可发布内容，各位成员可在内容下的评论交流～请务必遵守社区规范，文明理性发言哦😊",
+    "priority": 1,
+    "setupTime": "2025-10-13T13:57:24",
+    "isPrivate": false,
+    "pinned": false,
+    "canSetPin": false
+  },
+  "canView": true,
+  "canComment": false,
+  "canControlCommentVisibility": false,
+  "audioInfo": null
+}
