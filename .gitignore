@@ -23,3 +23,8 @@ extracted/test/
 node_modules/
 .DS_Store
 Thumbs.db
+
+# ── Quartz 站点构建产物 ──────────────────────────────────────
+public/
+.quartz-cache/
+quartz/.quartz-cache/

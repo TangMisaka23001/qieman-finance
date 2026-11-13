@@ -31,7 +31,21 @@ qieman-finance/
 │   ├── patch-meta.mjs           回填单行元信息（点赞/评论/收藏）
 │   ├── llm-config.mjs           LLM 网关配置与凭据读取
 │   ├── diag-gateway.mjs         网关诊断（空响应率 / 耗时 / finish_reason）
-│   └── test-tokens.mjs          max_tokens 对照实验
+│   ├── test-tokens.mjs          max_tokens 对照实验
+│   ├── gen-site-meta.mjs        生成站点元数据（主题归属 + 分布统计）
+│   └── build-site.mjs           把抽取产物整理成 Quartz 的 content/ 内容树
+│
+├── content/                     Quartz 站点内容（由 tools/build-site.mjs 生成）
+│   ├── index.md                 站点首页
+│   ├── original/<id>.md         645 篇原文（供站点构建）
+│   ├── summary/<id>.md          645 篇摘要（供站点构建）
+│   └── report/*.md              3 份报告（供站点构建）
+│
+├── quartz/                      Quartz v4.5.2 站点生成器源码
+├── quartz.config.ts             站点配置（标题 / 中文 locale / baseUrl / 主题色）
+├── quartz.layout.ts             站点布局
+├── package.json                 npm 依赖与 site:build / site:preview 脚本
+├── .github/workflows/deploy.yml GitHub Pages 自动部署
 │
 ├── data/                        抓取产物（已脱敏）
 │   ├── markdown/<id>.md         645 篇可读正文 + 评论
@@ -93,6 +107,20 @@ node tools/build-report.mjs                     # 编译全部交付物
 node tools/verify-deliverables.mjs              # 24 项验收
 node tools/sanitize.mjs                         # 脱敏（提交前必须执行）
 ```
+
+### 4. 构建站点
+
+```bash
+npm ci                                    # 安装 Quartz 依赖（487 个包）
+npm run site:build                        # 整理 content/ 并构建 → public/
+npm run site:preview                      # 本地预览 http://localhost:8080
+```
+
+站点由 `.github/workflows/deploy.yml` 在 `main` 分支推送后自动构建并发布到 GitHub Pages：
+<https://TangMisaka23001.github.io/qieman-finance>
+
+> **首次部署需要在仓库 Settings → Pages → Build and deployment 把 Source 设为 "GitHub Actions"。**
+> 这是 GitHub 的硬性要求：`actions/configure-pages` 的自动启用功能需要 PAT 级别的令牌，仓库内置的 `GITHUB_TOKEN` 无权开启 Pages。
 
 ---
 
