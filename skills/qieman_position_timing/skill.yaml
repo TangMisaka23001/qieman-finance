@@ -1,0 +1,5 @@
+name: qieman_position_timing
+title: Position management and timing discipline
+description: Set a risk budget, separate core and trading holdings, and run staged buying, trimming and rebuying with preset triggers from the qieman-finance posts.
+category: Finance
+include_in_prompt: false

@@ -1,0 +1,5 @@
+name: qieman_investor_psychology
+title: Investor psychology and behavior
+description: Run a pre trade emotion check, read market emotion as a clue, filter noise, and review by system from the qieman-finance posts.
+category: Finance
+include_in_prompt: false

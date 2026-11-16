@@ -1,0 +1,5 @@
+name: qieman_valuation_risk
+title: Valuation and risk identification
+description: Read valuation as a risk thermometer, check crowding, and turn a valuation view into position caps and staged buying rules from the qieman-finance posts.
+category: Finance
+include_in_prompt: false
