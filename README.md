@@ -38,6 +38,8 @@ qieman-finance/
 ├── content/                     Quartz 站点内容（由 tools/build-site.mjs 生成）
 │   ├── index.md                 站点首页
 │   ├── timeline.md              全部帖子时间轴（倒序、按月分组）
+│   ├── archive.md               按年+月导航（点进某月，一页看完当月全部核心思想与要点）
+│   ├── month/<YYYY-MM>.md       每月一页（14 个月，每页含当月全部帖子的核心思想与要点）
 │   ├── original/<id>.md         645 篇原文（供站点构建）
 │   ├── summary/<id>.md          645 篇摘要（供站点构建）
 │   └── report/*.md              3 份报告（供站点构建）
