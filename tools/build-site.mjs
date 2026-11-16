@@ -12,6 +12,7 @@
  *
  * 输出：
  *   content/index.md          站点首页
+ *   content/timeline.md       全部帖子时间轴（倒序、按月分组，每篇一句话核心思想）
  *   content/original/<id>.md  原文
  *   content/summary/<id>.md   摘要
  *   content/report/*.md       三份报告（链接已改写为站点内相对路径）
@@ -90,10 +91,20 @@ function rewriteLinks(md, depth = 1) {
  * 只保留 frontmatter 里的「主题/类型」共 30 个标签参与导航。
  */
 function escapeHashtags(md) {
-  return md.replace(
-    /(?<=^| )#((?:[-_\p{L}\p{Emoji}\p{M}\d])+(?:\/[-_\p{L}\p{Emoji}\p{M}\d]+)*)/gmu,
-    (_m, tag) => `\`${tag}\``,
-  )
+  // 注意：`#` 本身属于 \p{Emoji}，原正则会把 `## 标题` 误当成 hashtag，
+  // 把二级标题吃成行内代码 `` `#` 标题 ``（报告里的 24 处标题此前就是这么坏掉的）。
+  // ATX 标题行（行首 1~6 个 # 后跟空格）整行跳过，只转义正文里的 #标签。
+  return md
+    .split("\n")
+    .map((line) =>
+      /^#{1,6}\s/.test(line)
+        ? line
+        : line.replace(
+            /(?<=^| )#((?:[-_\p{L}\p{Emoji}\p{M}\d])+(?:\/[-_\p{L}\p{Emoji}\p{M}\d]+)*)/gu,
+            (_m, tag) => `\`${tag}\``,
+          ),
+    )
+    .join("\n")
 }
 
 function readPosts() {
@@ -179,6 +190,49 @@ function main() {
     fs.writeFileSync(path.join(DIRS.report, r.out), md)
   }
 
+  // ---- 时间轴 ----
+  // 603 / 645 篇无标题，标题不能当条目标签，改用一句话核心思想（tldr）当链接文字；
+  // 有标题的 42 篇用标题当链接文字，正文后附 tldr。按时间倒序、按月分组。
+  const sorted = [...posts].sort((a, b) =>
+    String(b.createdAt || "").localeCompare(String(a.createdAt || "")),
+  )
+  const byMonth = new Map()
+  for (const p of sorted) {
+    const m = p.createdAt ? p.createdAt.slice(0, 7) : "未知时间"
+    if (!byMonth.has(m)) byMonth.set(m, [])
+    byMonth.get(m).push(p)
+  }
+  const clean = (s) => String(s || "").replace(/\s+/g, " ").trim()
+  const tlParts = [
+    frontmatter({
+      title: "全部帖子时间轴",
+      description: `645 篇帖子按时间倒序排列，每篇一句话核心思想，链到抽取摘要与原文（2025-10-22 ~ 2026-11-10）。`,
+      tags: ["时间轴"],
+    }),
+    "",
+    "645 篇帖子按时间**倒序**排列，每月一组。每条先给一句话核心思想，点进去是抽取摘要，末尾的「原文」是帖子正文（含评论）。",
+    "",
+  ]
+  for (const [month, items] of byMonth) {
+    tlParts.push(`## ${month}（${items.length} 篇）`, "")
+    for (const p of items) {
+      const id = String(p.id)
+      const theme = themeOf.get(id) || "其他杂谈"
+      const date = p.createdAt ? p.createdAt.slice(0, 10) : ""
+      const titled = p.title && p.title !== "(无标题)"
+      const label = clean(titled ? p.title : p.tldr || `帖子 ${id}`)
+      let line = `- **${date}** [${label}](summary/${id})`
+      if (titled && p.tldr) line += ` —— ${clean(p.tldr)}`
+      line += ` · ${theme} · [原文](original/${id})`
+      tlParts.push(line)
+    }
+    tlParts.push("")
+  }
+  fs.writeFileSync(
+    path.join(CONTENT, "timeline.md"),
+    escapeHashtags(tlParts.join("\n").trim()) + "\n",
+  )
+
   // ---- 首页 ----
   const stat = meta.stats
   const typeRows = stat.types
@@ -206,6 +260,7 @@ tags:
 - [[report/核心思想综合报告|📘 核心思想综合报告]] —— 22 个主题的跨文章综合：核心主张、关键数据、可执行动作
 - [[report/文章核心信息|📗 文章核心信息总索引]] —— 按类型 / 主题 / 标签 / 标的 / 时间线组织的全量索引
 - [[report/提取概览|🧭 提取方法与数据概览]] —— skill 选型、关键工程决策、质量验证
+- [[timeline|🕘 全部帖子时间轴]] —— 按月倒序的 645 篇全量时间轴，每篇一句话核心思想，链到摘要与原文
 
 ## 两种读法
 
