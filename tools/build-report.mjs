@@ -60,16 +60,9 @@ const top = (m, n) => [...m.entries()].sort((a, b) => b[1] - a[1]).slice(0, n);
 fs.rmSync(OUT_DIR, { recursive: true, force: true });
 fs.mkdirSync(OUT_DIR, { recursive: true });
 for (const r of rows) {
+  // 顺序：核心思想与要点在最前面，方便直接查看；帖子元信息移到末尾的「文章信息」。
   const lines = [
     `# ${r.title || '(无标题)'}`,
-    '',
-    `- 帖子 ID: ${r.id}`,
-    `- 作者: ${r.author}`,
-    `- 发布时间: ${r.createdAt}`,
-    `- 链接: ${r.url}`,
-    `- 点赞: ${r.likes}　社区评论数: ${r.commentNum}　收藏: ${r.collections}`,
-    `- 类型: ${r.type}　领域: ${r.domain}　主题: ${r.theme}`,
-    `- 正文长度: ${r.bodyChars} 字　已抓取评论: ${r.commentCount} 条（社区评论数 ${r.commentNum} 条，仅抓取精选部分）`,
     '',
     '## 核心思想',
     '',
@@ -102,6 +95,16 @@ for (const r of rows) {
     '## 值得深读吗',
     '',
     r.worth || '_（无）_',
+    '',
+    '## 文章信息',
+    '',
+    `- 帖子 ID: ${r.id}`,
+    `- 作者: ${r.author}`,
+    `- 发布时间: ${r.createdAt}`,
+    `- 链接: ${r.url}`,
+    `- 点赞: ${r.likes}　社区评论数: ${r.commentNum}　收藏: ${r.collections}`,
+    `- 类型: ${r.type}　领域: ${r.domain}　主题: ${r.theme}`,
+    `- 正文长度: ${r.bodyChars} 字　已抓取评论: ${r.commentCount} 条（社区评论数 ${r.commentNum} 条，仅抓取精选部分）`,
     '',
   ];
   fs.writeFileSync(path.join(OUT_DIR, `${r.id}.md`), lines.join('\n'));
