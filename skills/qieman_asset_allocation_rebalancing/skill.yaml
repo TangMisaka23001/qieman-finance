@@ -1,0 +1,5 @@
+name: qieman_asset_allocation_rebalancing
+title: Asset allocation and rebalancing
+description: Build a core satellite allocation across stocks, bonds, cash, gold and dividends with preset rebalancing thresholds from the qieman-finance posts.
+category: Finance
+include_in_prompt: false

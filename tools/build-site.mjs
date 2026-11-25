@@ -12,6 +12,9 @@
  *
  * 输出：
  *   content/index.md          站点首页
+ *   content/timeline.md       全部帖子时间轴（正序、按月分组，每篇一句话核心思想）
+ *   content/archive.md        按年+月导航（点进某月，一页看完当月全部核心思想与要点）
+ *   content/month/<YYYY-MM>.md 每月一页（14 个月，每页含当月全部帖子的核心思想与要点）
  *   content/original/<id>.md  原文
  *   content/summary/<id>.md   摘要
  *   content/report/*.md       三份报告（链接已改写为站点内相对路径）
@@ -88,22 +91,22 @@ function rewriteLinks(md, depth = 1) {
  * 正文里的 `#标签` 会被 Quartz 当作 Obsidian 标签，为每个原始标签生成一个标签页。
  * 抽取产物的原始标签有 1768 种（碎片化），会炸出 533MB 的标签页，因此改成行内代码显示，
  * 只保留 frontmatter 里的「主题/类型」共 30 个标签参与导航。
- *
- * 注意：必须跳过 Markdown 标题行（`# ` / `## ` / `### `），否则 `## 目录` 会被
- * 误判成「# + 空标签」而变成 `` `#` 目录 ``，标题层级全毁。
  */
 function escapeHashtags(md) {
-  const lines = md.split("\n")
-  const out = lines.map((line) => {
-    // 标题行：原样保留（行首的 # 后必须跟空格才是标题）
-    if (/^#{1,6}\s/.test(line)) return line
-    // 围栏代码块内不动
-    return line.replace(
-      /(?<=^| )#((?:[-_\p{L}\p{Emoji}\p{M}\d])+(?:\/[-_\p{L}\p{Emoji}\p{M}\d]+)*)/gu,
-      (_m, tag) => `\`${tag}\``,
+  // 注意：`#` 本身属于 \p{Emoji}，原正则会把 `## 标题` 误当成 hashtag，
+  // 把二级标题吃成行内代码 `` `#` 标题 ``（报告里的 24 处标题此前就是这么坏掉的）。
+  // ATX 标题行（行首 1~6 个 # 后跟空格）整行跳过，只转义正文里的 #标签。
+  return md
+    .split("\n")
+    .map((line) =>
+      /^#{1,6}\s/.test(line)
+        ? line
+        : line.replace(
+            /(?<=^| )#((?:[-_\p{L}\p{Emoji}\p{M}\d])+(?:\/[-_\p{L}\p{Emoji}\p{M}\d]+)*)/gu,
+            (_m, tag) => `\`${tag}\``,
+          ),
     )
-  })
-  return out.join("\n")
+    .join("\n")
 }
 
 function readPosts() {
@@ -189,6 +192,135 @@ function main() {
     fs.writeFileSync(path.join(DIRS.report, r.out), md)
   }
 
+  // ---- 时间轴 ----
+  // 603 / 645 篇无标题，标题不能当条目标签，改用一句话核心思想（tldr）当链接文字；
+  // 有标题的 42 篇用标题当链接文字，正文后附 tldr。按时间正序（越早发布的越靠前）、按月分组。
+  const sorted = [...posts].sort((a, b) =>
+    String(a.createdAt || "").localeCompare(String(b.createdAt || "")),
+  )
+  const byMonth = new Map()
+  for (const p of sorted) {
+    const m = p.createdAt ? p.createdAt.slice(0, 7) : "未知时间"
+    if (!byMonth.has(m)) byMonth.set(m, [])
+    byMonth.get(m).push(p)
+  }
+  const clean = (s) => String(s || "").replace(/\s+/g, " ").trim()
+  const tlParts = [
+    frontmatter({
+      title: "全部帖子时间轴",
+      description: `645 篇帖子按时间顺序排列，每篇一句话核心思想，链到抽取摘要与原文（2025-10-22 ~ 2026-11-10）。`,
+      tags: ["时间轴"],
+    }),
+    "",
+    "645 篇帖子按时间**顺序**排列（越早发布的越靠前），每月一组。每条先给一句话核心思想，点进去是抽取摘要，末尾的「原文」是帖子正文（含评论）。",
+    "",
+    "想按月一页看完当月全部核心思想与要点，用 [[archive|🗓 按年+月浏览]]。",
+    "",
+  ]
+  for (const [month, items] of byMonth) {
+    tlParts.push(`## ${month}（${items.length} 篇）`, "")
+    for (const p of items) {
+      const id = String(p.id)
+      const theme = themeOf.get(id) || "其他杂谈"
+      const date = p.createdAt ? p.createdAt.slice(0, 10) : ""
+      const titled = p.title && p.title !== "(无标题)"
+      const label = clean(titled ? p.title : p.tldr || `帖子 ${id}`)
+      let line = `- **${date}** [${label}](summary/${id})`
+      if (titled && p.tldr) line += ` —— ${clean(p.tldr)}`
+      line += ` · ${theme} · [原文](original/${id})`
+      tlParts.push(line)
+    }
+    tlParts.push("")
+  }
+  fs.writeFileSync(
+    path.join(CONTENT, "timeline.md"),
+    escapeHashtags(tlParts.join("\n").trim()) + "\n",
+  )
+
+  // ---- 按月浏览 ----
+  // 导航页 content/archive.md（按年、月分组）+ 每月一页 content/month/<YYYY-MM>.md，
+  // 每月页内嵌当月全部帖子的核心思想与要点（来自 posts.jsonl 的 tldr / core_points），
+  // 点进某个月就能在一页里浏览完，不用一篇一篇点开。
+  const monthDir = path.join(CONTENT, "month")
+  fs.mkdirSync(monthDir, { recursive: true })
+  const months = [...byMonth.keys()] // 正序：2025-10 … 2026-11（越早发布的越靠前）
+  const monthLabel = (m) => `${m.slice(0, 4)}年${Number(m.slice(5, 7))}月`
+  const navLine = (i) => {
+    const prev = i > 0 ? `[[month/${months[i - 1]}|← ${monthLabel(months[i - 1])}]]` : ""
+    const next =
+      i < months.length - 1 ? `[[month/${months[i + 1]}|${monthLabel(months[i + 1])} →]]` : ""
+    return [prev, "[[archive|🗓 按年+月浏览]]", next].filter(Boolean).join(" · ")
+  }
+  months.forEach((month, i) => {
+    const items = byMonth.get(month)
+    const from = items[0].createdAt.slice(0, 10)
+    const to = items[items.length - 1].createdAt.slice(0, 10)
+    const parts = [
+      frontmatter({
+        title: `${monthLabel(month)} · ${items.length} 篇`,
+        description: `${monthLabel(month)}共 ${items.length} 篇帖子（${from} ~ ${to}），每篇的核心思想与要点都在这一页。`,
+        tags: ["按月浏览"],
+      }),
+      "",
+      `${monthLabel(month)}全部 **${items.length} 篇**帖子（${from} ~ ${to}）的核心思想与要点，按时间顺序排列（越早发布的越靠前）。想看单篇完整摘要（含作者观点、数据点）点标题，想看原文点「原文」。`,
+      "",
+      navLine(i),
+      "",
+    ]
+    for (const p of items) {
+      const id = String(p.id)
+      const theme = themeOf.get(id) || "其他杂谈"
+      const date = p.createdAt ? p.createdAt.slice(0, 10) : ""
+      const titled = p.title && p.title !== "(无标题)"
+      parts.push(`## ${date}${titled ? ` · ${clean(p.title)}` : ""}`, "")
+      parts.push(`**核心思想**：${clean(p.tldr) || "（无）"}`, "")
+      parts.push("**要点**：", "")
+      for (const [j, point] of (p.core_points || []).entries()) {
+        parts.push(`${j + 1}. ${clean(point)}`)
+      }
+      parts.push("", `[完整摘要 →](../summary/${id}) · [原文 →](../original/${id}) · ${theme}`, "", "---", "")
+    }
+    parts.push(navLine(i), "")
+    fs.writeFileSync(
+      path.join(monthDir, `${month}.md`),
+      escapeHashtags(parts.join("\n").trim()) + "\n",
+    )
+  })
+
+  // ---- 按年+月导航 ----
+  // 年份升序（2025 → 2026），年内月份升序（10 月 → 11 月），越早发布的越靠前
+  const byYear = new Map()
+  for (const m of months) {
+    const y = m.slice(0, 4)
+    if (!byYear.has(y)) byYear.set(y, [])
+    byYear.get(y).push(m)
+  }
+  const arParts = [
+    frontmatter({
+      title: "按年+月浏览",
+      description: "按年份、月份分组的导航：点进某个月，一页看完当月全部帖子的核心思想与要点。",
+      tags: ["按月浏览"],
+    }),
+    "",
+    "按年份、月份分组，从早到晚排列。点进某个月，一页看完当月全部帖子的核心思想与要点；想一次扫完全部 645 篇的一句话核心思想，用 [[timeline|🕘 全部帖子时间轴]]。",
+    "",
+  ]
+  for (const [year, ms] of byYear) {
+    const total = ms.reduce((s, m) => s + byMonth.get(m).length, 0)
+    arParts.push(`## ${year} 年（${total} 篇）`, "")
+    for (const m of ms) {
+      const items = byMonth.get(m)
+      const from = items[0].createdAt.slice(0, 10)
+      const to = items[items.length - 1].createdAt.slice(0, 10)
+      arParts.push(`- [[month/${m}|${monthLabel(m)}]] —— ${items.length} 篇 · ${from} ~ ${to}`)
+    }
+    arParts.push("")
+  }
+  fs.writeFileSync(
+    path.join(CONTENT, "archive.md"),
+    escapeHashtags(arParts.join("\n").trim()) + "\n",
+  )
+
   // ---- 首页 ----
   const stat = meta.stats
   const typeRows = stat.types
@@ -216,6 +348,8 @@ tags:
 - [[report/核心思想综合报告|📘 核心思想综合报告]] —— 22 个主题的跨文章综合：核心主张、关键数据、可执行动作
 - [[report/文章核心信息|📗 文章核心信息总索引]] —— 按类型 / 主题 / 标签 / 标的 / 时间线组织的全量索引
 - [[report/提取概览|🧭 提取方法与数据概览]] —— skill 选型、关键工程决策、质量验证
+- [[timeline|🕘 全部帖子时间轴]] —— 按月正序的 645 篇全量时间轴，每篇一句话核心思想，链到摘要与原文
+- [[archive|🗓 按年+月浏览]] —— 按年、月分组的导航，点进某个月，一页看完当月全部帖子的核心思想与要点
 
 ## 两种读法
 
@@ -258,7 +392,7 @@ ${themeRows}
   fs.writeFileSync(path.join(CONTENT, "index.md"), index)
 
   console.log(
-    `[build-site] 完成：原文 ${nOriginal} 篇、摘要 ${nSummary} 篇、报告 ${REPORTS.length} 份、首页 1 份`,
+    `[build-site] 完成：原文 ${nOriginal} 篇、摘要 ${nSummary} 篇、报告 ${REPORTS.length} 份、月份页 ${months.length} 份、导航 1 份、首页 1 份`,
   )
 }
 

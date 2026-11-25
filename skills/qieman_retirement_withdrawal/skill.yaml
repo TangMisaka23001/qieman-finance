@@ -1,0 +1,5 @@
+name: qieman_retirement_withdrawal
+title: Retirement planning and withdrawal
+description: Test retirement with a cash flow model, a 4 percent baseline beside a dynamic guardrail, and a three year cash reserve from the qieman-finance posts.
+category: Finance
+include_in_prompt: false
