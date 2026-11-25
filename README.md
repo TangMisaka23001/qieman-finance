@@ -37,7 +37,7 @@ qieman-finance/
 │
 ├── content/                     Quartz 站点内容（由 tools/build-site.mjs 生成）
 │   ├── index.md                 站点首页
-│   ├── timeline.md              全部帖子时间轴（倒序、按月分组）
+│   ├── timeline.md              全部帖子时间轴（正序、按月分组，越早发布的越靠前）
 │   ├── archive.md               按年+月导航（点进某月，一页看完当月全部核心思想与要点）
 │   ├── month/<YYYY-MM>.md       每月一页（14 个月，每页含当月全部帖子的核心思想与要点）
 │   ├── original/<id>.md         645 篇原文（供站点构建）
@@ -159,6 +159,8 @@ npm run site:preview                      # 本地预览 http://localhost:8080
 3. **主题聚类不用 LLM 自由标签**（见上）。
 4. **总纲需独立 system prompt**。主题综合的系统提示要求输出 `theme/essence/claims`，与总纲要求的 `gist/key_conclusions` 冲突，会静默返回错误结构 —— 因此总纲单独用一套提示并加显式结构校验。
 5. **元信息是单行**。原 md 的 `- 点赞: N  评论: N  收藏: N` 在同一行，行首锚定正则会静默取到 0，已改为整行匹配后回填。
+6. **站点列表统一按时间正序**。Quartz 默认「最新在前」（`byDateAndAlphabetical` 是降序），但本站按年+月浏览希望越早发布的越靠前，因此 `quartz.config.ts` 给 `FolderPage` / `TagPage` 传了 `byDateAscending` 排序器，`tools/build-site.mjs` 的时间轴页与月份页也改为升序（`createdAt` 正序，月份正序 2025-10 → 2026-11）。
+7. **hashtag 转义必须跳过标题行**。为压制 1768 个碎片化标签页而加的 `escapeHashtags`，其正则加 `m` flag 后 `^` 锚点会匹配每行行首，把 `## 正文` 误判成「# + 空标签」变成 `` `#` 正文 ``，1290 个内容页的标题层级全毁。修复：逐行处理，先用 `/^#{1,6}\s/` 判定标题行并原样保留。
 
 ---
 
