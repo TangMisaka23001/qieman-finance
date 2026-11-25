@@ -88,12 +88,22 @@ function rewriteLinks(md, depth = 1) {
  * 正文里的 `#标签` 会被 Quartz 当作 Obsidian 标签，为每个原始标签生成一个标签页。
  * 抽取产物的原始标签有 1768 种（碎片化），会炸出 533MB 的标签页，因此改成行内代码显示，
  * 只保留 frontmatter 里的「主题/类型」共 30 个标签参与导航。
+ *
+ * 注意：必须跳过 Markdown 标题行（`# ` / `## ` / `### `），否则 `## 目录` 会被
+ * 误判成「# + 空标签」而变成 `` `#` 目录 ``，标题层级全毁。
  */
 function escapeHashtags(md) {
-  return md.replace(
-    /(?<=^| )#((?:[-_\p{L}\p{Emoji}\p{M}\d])+(?:\/[-_\p{L}\p{Emoji}\p{M}\d]+)*)/gmu,
-    (_m, tag) => `\`${tag}\``,
-  )
+  const lines = md.split("\n")
+  const out = lines.map((line) => {
+    // 标题行：原样保留（行首的 # 后必须跟空格才是标题）
+    if (/^#{1,6}\s/.test(line)) return line
+    // 围栏代码块内不动
+    return line.replace(
+      /(?<=^| )#((?:[-_\p{L}\p{Emoji}\p{M}\d])+(?:\/[-_\p{L}\p{Emoji}\p{M}\d]+)*)/gu,
+      (_m, tag) => `\`${tag}\``,
+    )
+  })
+  return out.join("\n")
 }
 
 function readPosts() {

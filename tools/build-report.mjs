@@ -125,7 +125,7 @@ md.push('- [按主题标签](#按主题标签)');
 md.push('- [涉及标的/实体](#涉及标的实体)');
 md.push('- [按时间线](#按时间线)');
 md.push('- [高信号文章 Top 50](#高信号文章-top-50信息密度--互动度排序)');
-md.push('- [全部文章（按时间倒序）](#全部文章按时间倒序)');
+md.push('- [全部文章（按时间顺序）](#全部文章按时间顺序)');
 md.push('- [全部要点清单](#全部要点清单)');
 md.push('');
 
@@ -177,7 +177,7 @@ for (const name of themeOrder) {
   if (!arr || !arr.length) continue;
   md.push(`### ${name}（${arr.length} 篇）`);
   md.push('');
-  for (const r of [...arr].sort((a, b) => String(b.createdAt).localeCompare(String(a.createdAt)))) {
+  for (const r of [...arr].sort((a, b) => String(a.createdAt).localeCompare(String(b.createdAt)))) {
     md.push(`- **[${esc(r.title || '(无标题)')}](逐篇摘要/${r.id}.md)** · ${dateOf(r.createdAt)} · ${esc(r.type)}`);
     md.push(`  - ${esc(r.tldr)}`);
     if ((r.core_points || []).length) md.push(`  - 要点：${r.core_points.map(esc).join('；')}`);
@@ -237,10 +237,13 @@ scored.slice(0, 50).forEach((s, i) => {
 });
 md.push('');
 
-md.push('## 全部文章（按时间倒序）');
+md.push('## 全部文章（按时间顺序）');
+md.push('');
+md.push('> 按发布时间从早到晚排列，每月一组。');
 md.push('');
 let curMonth = null;
-for (const r of [...rows].reverse()) {
+// posts.jsonl 本身即按 createdAt 升序（旧 → 新），这里直接用即可
+for (const r of rows) {
   const m = monthOf(r.createdAt);
   if (m !== curMonth) {
     curMonth = m;
@@ -268,7 +271,7 @@ md.push('## 全部要点清单');
 md.push('');
 md.push('> 把 645 篇文章提炼出的每一条要点按文章平铺，便于一次性通读所有「有用信息」。');
 md.push('');
-for (const r of [...rows].reverse()) {
+for (const r of rows) {
   const pts = r.core_points || [];
   if (!pts.length) continue;
   md.push(`- **[${esc(r.title || '(无标题)')}](逐篇摘要/${r.id}.md)** · ${dateOf(r.createdAt)}`);
